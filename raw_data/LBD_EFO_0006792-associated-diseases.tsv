@@ -1,0 +1,29 @@
+symbol	overallAssociationScore	objectObject	objectObject	objectObject	objectObject	objectObject	objectObject	objectObject	targetName
+SNCA	0.7195133546819884	0.8057468262714922	No data	No data	No data	0.764068661572266	No data	No data	synuclein alpha
+GBA1	0.5761373879776371	0.7484179624720283	No data	No data	No data	0.5480911005421527	No data	No data	glucosylceramidase beta 1
+SNCB	0.4618571054857509	0.6039454734939449	No data	No data	No data	0.21546118863183578	No data	No data	synuclein beta
+APOE	0.3975625948680154	0.6089678263267654	No data	No data	No data	0.8998490814029737	No data	No data	apolipoprotein E
+BIN1	0.27891474460430893	0.45111844969255765	No data	No data	No data	0.15350252639693432	No data	No data	bridging integrator 1
+TMEM175	0.23323812781576828	0.383051078964834	No data	No data	No data	0.012158615952232422	No data	No data	transmembrane protein 175
+IDUA	0.13570345074134235	0.22322187208557415	No data	No data	No data	No data	No data	No data	alpha-L-iduronidase
+ASH1L	0.1256936331641941	0.20371682825960383	No data	No data	No data	0.06079307976116211	No data	No data	ASH1 like histone lysine methyltransferase
+TOMM40	0.10680093564642416	0.16440737920633802	No data	No data	No data	0.22544100411430953	No data	No data	translocase of outer mitochondrial membrane 40
+GAK	0.10006325591435918	0.1645964578657273	No data	No data	No data	No data	No data	No data	cyclin G associated kinase
+APOC1	0.09940456623677699	0.1635129633624549	No data	No data	No data	No data	No data	No data	apolipoprotein C1
+STX1B	0.08319574541632037	0.13533085690481544	No data	No data	No data	0.030396539880581056	No data	No data	syntaxin 1B
+MMRN1	0.08048383554216722	0.132389798079591	No data	No data	No data	No data	No data	No data	multimerin 1
+HSD3B7	0.0781042236187676	0.12847551715691294	No data	No data	No data	No data	No data	No data	hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 7
+DGKQ	0.056986527036741876	0.09373850981168409	No data	No data	No data	No data	No data	No data	diacylglycerol kinase theta
+CYP27C1	0.04531118008722945	0.07453345062504413	No data	No data	No data	No data	No data	No data	cytochrome P450 family 27 subfamily C member 1
+FDPS	0.03325966045277792	0.0547096159356381	No data	No data	No data	No data	No data	No data	farnesyl diphosphate synthase
+STX4	0.02852991923515943	0.046929550776576845	No data	No data	No data	No data	No data	No data	syntaxin 4
+RUSC1	0.02845955964416037	0.04681381459200537	No data	No data	No data	No data	No data	No data	RUN and SH3 domain containing 1
+SLC26A1	0.02832320214000126	0.04658951685171187	No data	No data	No data	No data	No data	No data	solute carrier family 26 member 1
+BCL7C	0.027944169361919586	0.04444620971887297	No data	No data	No data	0.030396539880581056	No data	No data	BAF chromatin remodeling complex subunit BCL7C
+FBXL19	0.02678347754472351	0.04405678680854434	No data	No data	No data	No data	No data	No data	F-box and leucine rich repeat protein 19
+PKLR	0.02600460138824245	0.04277559467361545	No data	No data	No data	No data	No data	No data	pyruvate kinase L/R
+SETD1A	0.0259550120850841	0.04269402403538956	No data	No data	No data	No data	No data	No data	SET domain containing 1A, histone lysine methyltransferase
+ORAI3	0.022344335866713895	0.03675473582601528	No data	No data	No data	No data	No data	No data	ORAI calcium release-activated calcium modulator 3
+HCN3	0.01975000217803108	0.032487253903936024	No data	No data	No data	No data	No data	No data	hyperpolarization activated cyclic nucleotide gated potassium channel 3
+CCSER1	0.01972116113403749	0.0324398125765565	No data	No data	No data	No data	No data	No data	coiled-coil serine rich protein 1
+PRSS53	0.01962102841069351	0.032275101850043925	No data	No data	No data	No data	No data	No data	serine protease 53

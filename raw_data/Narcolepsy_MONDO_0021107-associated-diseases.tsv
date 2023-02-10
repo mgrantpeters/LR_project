@@ -1,0 +1,37 @@
+symbol	overallAssociationScore	objectObject	objectObject	objectObject	objectObject	objectObject	objectObject	objectObject	targetName
+MOG	0.4789780581981421	0.5787128990733482	No data	No data	No data	0.015198269940290528	No data	No data	myelin oligodendrocyte glycoprotein
+HCRT	0.4675024159228833	0.5957721816593886	No data	No data	No data	0.6852934248842515	No data	0.7076061179700264	hypocretin neuropeptide precursor
+PPAN-P2RY11	0.45681979455778843	0.5997421038217466	No data	No data	No data	0.07903100368951074	No data	No data	PPAN-P2RY11 readthrough
+PPAN	0.44740320442429443	0.5887554388519328	No data	No data	No data	No data	No data	No data	peter pan homolog
+EIF3G	0.42966587882611534	0.5649728831176938	No data	No data	No data	0.024823840902474525	No data	No data	eukaryotic translation initiation factor 3 subunit G
+NPC1	0.42501683288740705	0.6991204172533643	No data	No data	No data	No data	No data	No data	NPC intracellular cholesterol transporter 1
+CTSH	0.31397404729964506	0.5131958387474708	No data	No data	No data	0.06535256074324927	No data	No data	cathepsin H
+TNFSF4	0.2973275157902656	0.4890811864744751	No data	No data	No data	No data	No data	No data	TNF superfamily member 4
+IFNAR1	0.2386590372675795	0.39136013258898283	No data	No data	No data	0.024317231904464845	No data	No data	interferon alpha and beta receptor subunit 1
+HLA-DRB1	0.2086418146263316	0.3229031577734343	No data	No data	No data	0.4059356893348051	No data	No data	major histocompatibility complex, class II, DR beta 1
+HLA-DQA2	0.19840298434498177	0.3254459476970783	No data	No data	No data	0.01823792392834863	No data	No data	major histocompatibility complex, class II, DQ alpha 2
+HLA-DQB1	0.18416347032084854	0.3017950543287421	No data	No data	No data	0.02279740491043579	No data	No data	major histocompatibility complex, class II, DQ beta 1
+IL10RB	0.1814738516218598	0.2985107060455178	No data	No data	No data	No data	No data	No data	interleukin 10 receptor subunit beta
+ZNF365	0.18130485125466747	0.2967128862801795	No data	No data	No data	0.030396539880581056	No data	No data	zinc finger protein 365
+H2AC6	0.14981434868325666	0.2464332277157739	No data	No data	No data	No data	No data	No data	H2A clustered histone 6
+DAD1	0.14747695509976635	0.24258839275647714	No data	No data	No data	No data	No data	No data	defender against cell death 1
+P2RY11	0.12953666935448363	0.21125419257419525	No data	No data	No data	0.03647584785669726	No data	No data	purinergic receptor P2Y11
+EGR2	0.10634854244696758	0.17493527695056627	No data	No data	No data	No data	No data	No data	early growth response 2
+HFE	0.10559962391299257	0.17370336282988463	No data	No data	No data	No data	No data	No data	homeostatic iron regulator
+ADO	0.07793832566015332	0.12820262761213905	No data	No data	No data	No data	No data	No data	2-aminoethanethiol dioxygenase
+TNFSF18	0.06574342137391316	0.10814293605818207	No data	No data	No data	No data	No data	No data	TNF superfamily member 18
+HLA-DQA1	0.05776724284099492	0.09411083183109031	No data	No data	No data	0.01823792392834863	No data	No data	major histocompatibility complex, class II, DQ alpha 1
+H2BC4	0.057413167418293026	0.09444030084320823	No data	No data	No data	No data	No data	No data	H2B clustered histone 4
+ABHD4	0.049886118914953585	0.08205887760735478	No data	No data	No data	No data	No data	No data	abhydrolase domain containing 4, N-acyl phospholipase B
+HLA-DQB2	0.04409078042500541	0.07252598584941732	No data	No data	No data	No data	No data	No data	major histocompatibility complex, class II, DQ beta 2
+ANGPTL6	0.036523062855477	0.06007766508781135	No data	No data	No data	No data	No data	No data	angiopoietin like 6
+SHFL	0.03622229708191506	0.05958292822838005	No data	No data	No data	No data	No data	No data	shiftless antiviral inhibitor of ribosomal frameshifting
+IFNAR2	0.03602422348848458	0.05925711220752924	No data	No data	No data	No data	No data	No data	interferon alpha and beta receptor subunit 2
+H4C3	0.03584237676847917	0.05895798816130584	No data	No data	No data	No data	No data	No data	H4 clustered histone 3
+IFNGR2	0.03345299788087816	0.05502764132415239	No data	No data	No data	No data	No data	No data	interferon gamma receptor 2
+HLA-DPB1	0.0332203127143015	0.05199785987903962	No data	No data	No data	0.052940640292012	No data	No data	major histocompatibility complex, class II, DP beta 1
+HLA-DRB5	0.03190416343680275	0.049440272283393684	No data	No data	No data	0.06079307976116211	No data	No data	major histocompatibility complex, class II, DR beta 5
+HLA-DMA	0.02862759713792672	0.047090223509642905	No data	No data	No data	No data	No data	No data	major histocompatibility complex, class II, DM alpha
+HLA-DRA	0.027796913321779068	0.04572381170847876	No data	No data	No data	No data	No data	No data	major histocompatibility complex, class II, DR alpha
+TAP2	0.02438117333150612	0.040105178792212016	No data	No data	No data	No data	No data	No data	transporter 2, ATP binding cassette subfamily B member
+OR6J1	0.021913583006720472	0.036046180079726854	No data	No data	No data	No data	No data	No data	olfactory receptor family 6 subfamily J member 1

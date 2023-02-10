@@ -1,0 +1,40 @@
+symbol	overallAssociationScore	objectObject	objectObject	objectObject	objectObject	objectObject	objectObject	objectObject	targetName
+CHMP2B	0.81386354790857	0.937354319106969	No data	No data	No data	0.539464174665776	No data	No data	charged multivesicular body protein 2B
+GRN	0.789562630530008	0.9069541434752696	No data	No data	No data	0.9525721703300435	No data	No data	granulin precursor
+MAPT	0.787090033973524	0.9400467596550726	No data	No data	No data	0.8903885938374806	No data	0.5081740931650857	microtubule associated protein tau
+PSEN1	0.7359979251536191	0.8493253749124569	No data	No data	No data	0.19395744979695415	No data	No data	presenilin 1
+SQSTM1	0.6327008559828664	0.761073214045062	No data	No data	No data	0.3871725718045399	No data	No data	sequestosome 1
+TMEM106B	0.5616023957900661	0.73005454156534	No data	No data	No data	0.36099380322902974	No data	0.25624283119329827	transmembrane protein 106B
+TARDBP	0.5540698345982338	0.7148081289151996	No data	No data	No data	0.5851704843231459	No data	0.39110847907595137	TAR DNA binding protein
+TREM2	0.4135498732746324	0.6656842233847251	No data	No data	No data	0.29147832054871886	No data	No data	triggering receptor expressed on myeloid cells 2
+SETX	0.35328240970381386	0.5792229543910723	No data	No data	No data	0.037995674850726316	No data	No data	senataxin
+CYLD	0.3349007477832508	0.547137717850459	No data	No data	No data	0.07497164400857101	No data	No data	CYLD lysine 63 deubiquitinase
+CHRNB4	0.3233823728491141	0.5319394479101685	No data	No data	No data	No data	No data	No data	cholinergic receptor nicotinic beta 4 subunit
+MEF2C	0.2956638837477614	0.48634463808929684	No data	No data	No data	No data	No data	No data	myocyte enhancer factor 2C
+CSF1R	0.2841131735921542	0.4377101742803672	No data	No data	No data	0.07886962976888622	No data	0.5576352848979355	colony stimulating factor 1 receptor
+TBK1	0.28230850322823664	0.42555155832813474	No data	No data	No data	0.7764898584402368	No data	No data	TANK binding kinase 1
+GFRA2	0.27047682875520457	0.44491384515775056	No data	No data	No data	No data	No data	No data	GDNF family receptor alpha 2
+CHRNA4	0.2695738045505779	0.42555155832813474	No data	No data	No data	0.030396539880581056	No data	0.3440280383684164	cholinergic receptor nicotinic alpha 4 subunit
+FUS	0.2688377647598859	0.42555155832813474	No data	No data	No data	0.3333230203305952	No data	No data	FUS RNA binding protein
+HNRNPA2B1	0.2676848884796594	0.4377101742803672	No data	No data	No data	0.05222282249593173	No data	No data	heterogeneous nuclear ribonucleoprotein A2/B1
+CCNF	0.26540317778768174	0.42555155832813474	No data	No data	No data	0.22033032492191962	No data	No data	cyclin F
+OPTN	0.26480329906477074	0.42555155832813474	No data	No data	No data	0.20059522595119061	No data	No data	optineurin
+ERBB4	0.26364902883569913	0.42555155832813474	No data	No data	No data	0.16262148836110865	No data	No data	erb-b2 receptor tyrosine kinase 4
+DCTN1	0.2622659390558094	0.42555155832813474	No data	No data	No data	0.11711993504867756	No data	No data	dynactin subunit 1
+ANG	0.26018745152175854	0.42555155832813474	No data	No data	No data	0.048740851698511715	No data	No data	angiogenin
+GLT8D1	0.25870589827929125	0.42555155832813474	No data	No data	No data	No data	No data	No data	glycosyltransferase 8 domain containing 1
+RNASE4	0.25870589827929125	0.42555155832813474	No data	No data	No data	No data	No data	No data	ribonuclease A family member 4
+ENSG00000259171	0.25870589827929125	0.42555155832813474	No data	No data	No data	No data	No data	No data	novel protein, ANG-RNASE4 readthrough
+ABCA7	0.19319786903642786	0.31612401475804297	No data	No data	No data	0.03343619386863916	No data	No data	ATP binding cassette subfamily A member 7
+HLA-DRA	0.15821184517222828	0.2602464717921768	No data	No data	No data	No data	No data	No data	major histocompatibility complex, class II, DR alpha
+ARSA	0.13050656442424946	0.19453785523571876	No data	No data	No data	0.030396539880581056	No data	0.3892010961984449	arylsulfatase A
+VPS13C	0.11826555349910459	0.19453785523571876	No data	No data	No data	No data	No data	No data	vacuolar protein sorting 13 homolog C
+TNK1	0.11826555349910459	0.19453785523571876	No data	No data	No data	No data	No data	No data	tyrosine kinase non receptor 1
+TM2D3	0.11826555349910459	0.19453785523571876	No data	No data	No data	No data	No data	No data	TM2 domain containing 3
+MIR4795	0.11826555349910459	0.19453785523571876	No data	No data	No data	No data	No data	No data	microRNA 4795
+LRRK2	0.11327041647639496	0.18237923928348632	No data	No data	No data	0.07883989692245882	No data	No data	leucine rich repeat kinase 2
+MARCHF4	0.11087395640541053	0.18237923928348632	No data	No data	No data	No data	No data	No data	membrane associated ring-CH-type finger 4
+BTNL2	0.049718793222779015	0.08178363954928643	No data	No data	No data	No data	No data	No data	butyrophilin like 2
+HLA-DRB5	0.025238094333309914	0.041514748771509624	No data	No data	No data	No data	No data	No data	major histocompatibility complex, class II, DR beta 5
+MASP2	0.011261919460808829	0.01730914076533088	No data	No data	No data	0.024317231904464845	No data	No data	MBL associated serine protease 2
+POU1F1	0.01102374577667869	0.018133224735426633	No data	No data	No data	No data	No data	No data	POU class 1 homeobox 1

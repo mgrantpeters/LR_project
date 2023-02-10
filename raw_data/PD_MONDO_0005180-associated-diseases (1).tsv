@@ -1,0 +1,409 @@
+symbol	overallAssociationScore	objectObject	objectObject	objectObject	objectObject	objectObject	objectObject	objectObject	targetName
+LRRK2	0.8781328592648435	0.9534238826261895	No data	No data	No data	0.9851068579929023	No data	No data	leucine rich repeat kinase 2
+SNCA	0.8628569645069281	0.9353741145984737	No data	0.17465293511588148	No data	0.9862876868450727	No data	No data	synuclein alpha
+PRKN	0.8567613368594951	0.9425147190797314	No data	No data	No data	0.894583919896135	No data	No data	parkin RBR E3 ubiquitin protein ligase
+ATP13A2	0.8547757463862459	0.9414917536969482	No data	No data	No data	0.46815986393779085	No data	No data	ATPase cation transporting 13A2
+PINK1	0.8303190811062777	0.9299382459466163	No data	No data	No data	0.8539002543429097	No data	No data	PTEN induced kinase 1
+PARK7	0.8150649223587327	0.9113716244064255	No data	No data	No data	0.8520127296569069	No data	0.5127524116068511	Parkinsonism associated deglycase
+FBXO7	0.7803655750170694	0.8757787687983803	No data	No data	No data	0.33166411847005006	No data	No data	F-box protein 7
+VPS35	0.7793146067748358	0.8746317788107443	No data	No data	No data	0.32266129877753175	No data	No data	VPS35 retromer complex component
+GIGYF2	0.7701469941531159	0.8884894119167324	No data	No data	No data	0.24624085282041588	No data	No data	GRB10 interacting GYF protein 2
+PLA2G6	0.711414939396711	0.8205824242333393	No data	No data	No data	0.2541623304413584	No data	No data	phospholipase A2 group VI
+GBA1	0.6994189707800199	0.8365120216050651	No data	No data	No data	0.9524232557265065	No data	No data	glucosylceramidase beta 1
+VPS13C	0.6653205535213502	0.7684781731454182	No data	No data	No data	0.04846559414292646	No data	No data	vacuolar protein sorting 13 homolog C
+MAPT	0.6569889470423668	0.7891925575674272	No data	No data	No data	0.5214537411922795	No data	No data	microtubule associated protein tau
+EIF4G1	0.6509497155165364	0.7831572003279706	No data	No data	No data	0.38391090245148357	No data	No data	eukaryotic translation initiation factor 4 gamma 1
+DNAJC6	0.6195988234930883	0.7475067460428607	No data	No data	No data	0.13341455962562984	0.01069961510590474	No data	DnaJ heat shock protein family (Hsp40) member C6
+HTRA2	0.6133111415036309	0.7322468146245827	No data	No data	No data	0.6026352939770668	No data	0.581005065025633	HtrA serine peptidase 2
+UCHL1	0.612159219996037	0.7321459816049168	No data	No data	No data	0.5962150873379534	No data	0.37133932945111847	ubiquitin C-terminal hydrolase L1
+SCN2A	0.589284127335728	0.5176147941152466	No data	0.8399239447668558	No data	No data	No data	No data	sodium voltage-gated channel alpha subunit 2
+BRCA2	0.5665098575332522	0.9312577679939296	No data	No data	No data	0.012158615952232422	No data	No data	BRCA2 DNA repair associated
+CHCHD2	0.565948124066149	0.7393113977621326	No data	No data	No data	0.30610992103447937	No data	No data	coiled-coil-helix-coiled-coil-helix domain containing 2
+DNAJC13	0.5622647238006651	0.6490592107053244	No data	No data	No data	0.1093590023124008	No data	No data	DnaJ heat shock protein family (Hsp40) member C13
+TMEM175	0.5393684624943308	0.7082643400688229	No data	No data	No data	0.0850382908559119	No data	No data	transmembrane protein 175
+SCN3A	0.5360804865825692	0.1664702317669094	No data	0.8399239447668558	No data	0.012158615952232422	No data	No data	sodium voltage-gated channel alpha subunit 3
+BRCA1	0.512026685492009	0.840164712444449	No data	No data	No data	0.04160610830987533	No data	No data	BRCA1 DNA repair associated
+RIT2	0.5000129171972862	0.8106491348838757	No data	No data	No data	0.23668292747876848	No data	No data	Ras like without CAAX 2
+BST1	0.4828773376307466	0.777941910608475	No data	No data	No data	0.32709286840176754	No data	No data	bone marrow stromal cell antigen 1
+SH3GL2	0.47500941734048246	0.7802905436908505	No data	No data	No data	0.021277577916406734	No data	No data	SH3 domain containing GRB2 like 2, endophilin A1
+PACRG	0.4709287351759183	0.6185581996414753	No data	No data	No data	0.06499173298377871	No data	No data	parkin coregulated
+PODXL	0.45148260551079433	0.5937994531137784	No data	No data	No data	0.01823792392834863	No data	No data	podocalyxin like
+IGSF9B	0.45035786072254586	0.7401965530217107	No data	No data	No data	0.012158615952232422	No data	No data	immunoglobulin superfamily member 9B
+STK39	0.4492618131302794	0.7319510281995387	No data	No data	No data	0.1410108111359731	No data	No data	serine/threonine kinase 39
+ATM	0.4468526933902337	0.7336033575548692	No data	No data	No data	0.02870784322054877	No data	No data	ATM serine/threonine kinase
+LINC02210-CRHR1	0.4416961591974109	0.7265566425203386	No data	No data	No data	No data	No data	No data	LINC02210-CRHR1 readthrough
+PSAP	0.43266043682292027	0.6839221473130737	No data	No data	No data	0.253266487109985	No data	0.4428654770730955	prosaposin
+GCH1	0.4287962507108956	0.684702895135086	No data	No data	No data	0.4126875490999757	No data	No data	GTP cyclohydrolase 1
+TMEM163	0.4231352112185518	0.6911998417794247	No data	No data	No data	0.09650901412084485	No data	No data	transmembrane protein 163
+SLC2A13	0.4208419916318939	0.6750927538071089	No data	No data	No data	No data	No data	0.34320733179164065	solute carrier family 2 member 13
+SIPA1L2	0.42059814717561556	0.6865706633646241	No data	No data	No data	0.10562702834709771	No data	No data	signal induced proliferation associated 1 like 2
+MT-ND1	0.41818987168281463	0.6839221473130737	No data	No data	No data	0.0793687430215172	No data	No data	mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 1
+TBC1D24	0.41614691637497414	0.6839221473130737	No data	No data	No data	0.012158615952232422	No data	No data	TBC1 domain family member 24
+FAM47E-STBD1	0.4159332168283701	0.6841785585833909	No data	No data	No data	No data	No data	No data	FAM47E-STBD1 readthrough
+GLUD2	0.4157773365202895	0.6839221473130737	No data	No data	No data	No data	No data	No data	glutamate dehydrogenase 2
+ENSG00000260272	0.4157773365202895	0.6839221473130737	No data	No data	No data	No data	No data	No data	novel protein
+SNCAIP	0.4085170596850607	0.5319394479101685	No data	No data	No data	0.3174854997038187	No data	No data	synuclein alpha interacting protein
+FGF20	0.3912180178270602	0.5075990259303769	No data	No data	No data	0.4061317731743653	No data	No data	fibroblast growth factor 20
+GPNMB	0.39081943264715674	0.633947247918294	No data	No data	No data	0.17842085309061448	No data	No data	glycoprotein nmb
+KANSL1	0.3893187469380472	0.6384324449241227	No data	No data	No data	0.039346632178752144	No data	No data	KAT8 regulatory NSL complex subunit 1
+RAB39B	0.3887113512702084	0.6295461148600343	No data	No data	No data	0.19709083841736103	No data	No data	RAB39B, member RAS oncogene family
+ITPKB	0.38462495092858634	0.6276634094316913	No data	No data	No data	0.10030858160591748	No data	No data	inositol-trisphosphate 3-kinase B
+GPR65	0.3837887710559992	0.6313033861153126	No data	No data	No data	No data	No data	No data	G protein-coupled receptor 65
+MAP4K4	0.37680740819372344	0.6198195743234056	No data	No data	No data	No data	No data	No data	mitogen-activated protein kinase kinase kinase kinase 4
+CAMK2D	0.3767794978612889	0.619773663945869	No data	No data	No data	No data	No data	No data	calcium/calmodulin dependent protein kinase II delta
+SYNJ1	0.3749967961126997	0.607930797611621	No data	No data	No data	0.17820914647783992	No data	No data	synaptojanin 1
+GALC	0.3746000448660451	0.5777172417681837	No data	No data	No data	0.16296057367242575	No data	0.6970008282305145	galactosylceramidase
+TOX3	0.3705744955296527	0.6065272522873428	No data	No data	No data	0.06079307976116211	No data	No data	TOX high mobility group box family member 3
+TMEM229B	0.3699813050256405	0.6052222031023312	No data	No data	No data	0.06737899673528801	No data	No data	transmembrane protein 229B
+HLA-DRA	0.35661368458557774	0.5824604539608926	No data	No data	No data	0.08283956798365989	No data	No data	major histocompatibility complex, class II, DR alpha
+S1PR1	0.3499927057938666	0.5724437969620045	No data	No data	No data	0.06535256074324927	No data	No data	sphingosine-1-phosphate receptor 1
+NDUFAF2	0.34479167295825064	0.5671561209151343	No data	No data	No data	No data	No data	No data	NADH:ubiquinone oxidoreductase complex assembly factor 2
+ITGA8	0.3415749361201699	0.5536571762617094	No data	No data	No data	0.16415313623175792	No data	No data	integrin subunit alpha 8
+ELOVL7	0.340891099485818	0.5572606675721276	No data	No data	No data	0.0695861232699502	No data	No data	ELOVL fatty acid elongase 7
+WNT3	0.33918911502126514	0.5546727104912327	No data	No data	No data	0.06535256074324927	No data	No data	Wnt family member 3
+ACMSD	0.3388107466207645	0.5506503625871355	No data	No data	No data	0.13335177306244617	No data	No data	aminocarboxymuconate semialdehyde decarboxylase
+ZNF608	0.336639554961576	0.55374650582621	No data	No data	No data	No data	No data	No data	zinc finger protein 608
+NUCKS1	0.3357528838152868	0.5439365549555445	No data	No data	No data	0.16702888325420148	No data	No data	nuclear casein kinase and cyclin dependent kinase substrate 1
+MT-ND5	0.33515517255564964	0.547137717850459	No data	No data	No data	0.08334183263524958	No data	No data	mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 5
+MT-ND3	0.3348002344763857	0.547137717850459	No data	No data	No data	0.07166490885844992	No data	No data	mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 3
+MT-ATP6	0.3346083609351619	0.547137717850459	No data	No data	No data	0.06535256074324927	No data	No data	mitochondrially encoded ATP synthase membrane subunit 6
+MT-ND4	0.3344697684896551	0.547137717850459	No data	No data	No data	0.06079307976116211	No data	No data	mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 4
+MT-ND6	0.3338897334399416	0.5474754571824654	No data	No data	No data	0.03495602086266821	No data	No data	mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 6
+MT-ND4L	0.3326218692162316	0.547137717850459	No data	No data	No data	No data	No data	No data	mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 4L
+MT-CO3	0.3326218692162316	0.547137717850459	No data	No data	No data	No data	No data	No data	mitochondrially encoded cytochrome c oxidase III
+MT-ATP8	0.3326218692162316	0.547137717850459	No data	No data	No data	No data	No data	No data	mitochondrially encoded ATP synthase membrane subunit 8
+PLPPR1	0.3290982681048232	0.5347388576394276	No data	No data	No data	0.13205607881452436	No data	No data	phospholipid phosphatase related 1
+ZNF98	0.32663609640231556	0.5372915760898632	No data	No data	No data	No data	No data	No data	zinc finger protein 98
+PALB2	0.326500206400534	0.537068047355482	No data	No data	No data	No data	No data	No data	partner and localizer of BRCA2
+RAB29	0.3252988664227851	0.5250702781224372	No data	No data	No data	0.20043312382237	No data	No data	RAB29, member RAS oncogene family
+DNAJB6	0.3249284963330744	0.5319394479101685	No data	No data	No data	0.04396595850267902	0.01552310118130502	No data	DnaJ heat shock protein family (Hsp40) member B6
+FYN	0.32419377501863084	0.5271206338082829	No data	No data	No data	0.1230701811691432	No data	No data	FYN proto-oncogene, Src family tyrosine kinase
+ZFAT	0.32110630396345463	0.528195487422229	No data	No data	No data	No data	No data	No data	zinc finger and AT-hook domain containing
+KCNS3	0.3186143981107918	0.5240964915127393	No data	No data	No data	No data	No data	No data	potassium voltage-gated channel modifier subfamily S member 3
+TBC1D5	0.3172396592886857	0.5212272197409461	No data	No data	No data	0.012158615952232422	No data	No data	TBC1 domain family member 5
+TNK2	0.3171200475336233	0.5201185712899424	No data	No data	No data	0.030396539880581056	No data	No data	tyrosine kinase non receptor 2
+APOE	0.3140125429540783	0.47682721934247846	No data	No data	No data	0.7939913974120608	No data	No data	apolipoprotein E
+HIP1R	0.3134520260076733	0.5117727025294165	No data	No data	No data	0.0766415773723807	No data	No data	huntingtin interacting protein 1 related
+COL18A1	0.310200501272572	0.5102562701071525	No data	No data	No data	No data	No data	No data	collagen type XVIII alpha 1 chain
+ASXL3	0.30840461346537146	0.5073021710316392	No data	No data	No data	No data	No data	No data	ASXL transcriptional regulator 3
+LCORL	0.30657279688768885	0.5042889718568659	No data	No data	No data	No data	No data	No data	ligand dependent nuclear receptor corepressor like
+ADAMTS9	0.30610618547361806	0.5035214315119715	No data	No data	No data	No data	No data	No data	ADAM metallopeptidase with thrombospondin type 1 motif 9
+MBNL2	0.3056597320603398	0.49974739555966313	No data	No data	No data	0.06079307976116211	No data	No data	muscleblind like splicing regulator 2
+FCGR2A	0.3042297152187034	0.4675812878266134	No data	No data	No data	0.04863446380892969	No data	0.6354545347961924	Fc gamma receptor IIa
+NSF	0.30119384915364433	0.4939676234386701	No data	No data	No data	0.029467756717563298	No data	No data	N-ethylmaleimide sensitive factor, vesicle fusing ATPase
+FAM47E	0.29676080896641754	0.4847230534320114	No data	No data	No data	0.06851886698080979	No data	No data	family with sequence similarity 47 member E
+MEX3C	0.2933895154758857	0.4826034749818987	No data	No data	No data	No data	No data	No data	mex-3 RNA binding family member C
+FRRS1L	0.29148392486243113	0.47946892312017186	No data	No data	No data	No data	No data	No data	ferric chelate reductase 1 like
+SYT17	0.2893738903907953	0.47599807663579324	No data	No data	No data	No data	No data	No data	synaptotagmin 17
+CRLS1	0.2881666485791005	0.4740122555251706	No data	No data	No data	No data	No data	No data	cardiolipin synthase 1
+CCDC62	0.28797228080452186	0.4660869201459855	No data	No data	No data	0.1521123029790253	No data	No data	coiled-coil domain containing 62
+ERCC8	0.2852667468654977	0.46924213740482584	No data	No data	No data	No data	No data	No data	ERCC excision repair 8, CSA ubiquitin ligase complex subunit
+RBMS3	0.2848297227168184	0.4685232658648476	No data	No data	No data	No data	No data	No data	RNA binding motif single stranded interacting protein 3
+CTSB	0.2817368788704762	0.46023696410805465	No data	No data	No data	0.06397616957573152	No data	No data	cathepsin B
+SLC18B1	0.28164400168628884	0.4632829966713056	No data	No data	No data	No data	No data	No data	solute carrier family 18 member B1
+CAB39L	0.27931431500335585	0.4594508389782168	No data	No data	No data	No data	No data	No data	calcium binding protein 39 like
+SPTSSB	0.277095718933262	0.45580141690779363	No data	No data	No data	No data	No data	No data	serine palmitoyltransferase small subunit B
+DYRK1A	0.27098279471113584	0.43879588876050035	No data	No data	No data	0.13900463950385475	No data	No data	dual specificity tyrosine phosphorylation regulated kinase 1A
+MCCC1	0.27066366506490824	0.4398939258087409	No data	No data	No data	0.10654501782823232	No data	No data	methylcrotonyl-CoA carboxylase subunit 1
+CNTN1	0.2669487868585342	0.4385025533352805	No data	No data	No data	0.012158615952232422	No data	No data	contactin 1
+CRHR1	0.26624987319579846	0.4379608242283741	No data	No data	No data	No data	No data	No data	corticotropin releasing hormone receptor 1
+KCNIP3	0.2648946741535995	0.43573162470842364	No data	No data	No data	No data	No data	No data	potassium voltage-gated channel interacting protein 3
+CYRIB	0.2648686142299452	0.4356887581128231	No data	No data	No data	No data	No data	No data	CYFIP related Rac1 interactor B
+DGKQ	0.262524824578025	0.42756383329313596	No data	No data	No data	0.08539137626993089	No data	No data	diacylglycerol kinase theta
+SLC19A1	0.25769504755535455	0.4202196423099158	No data	No data	No data	0.07338286668747912	No data	No data	solute carrier family 19 member 1
+COL3A1	0.256293229926496	0.4209749712915665	No data	No data	No data	0.012158615952232422	No data	No data	collagen type III alpha 1 chain
+INTS2	0.24955733105470385	0.41050285992277447	No data	No data	No data	No data	No data	No data	integrator complex subunit 2
+ZNF277	0.24942140173293362	0.41027926650999746	No data	No data	No data	No data	No data	No data	zinc finger protein 277
+SPPL2C	0.24895176331765503	0.40829088538274255	No data	No data	No data	0.024317231904464845	No data	No data	signal peptide peptidase like 2C
+SCARB2	0.2456050513893314	0.38676718089637885	No data	No data	No data	0.16371480587076168	No data	0.2719274457716781	scavenger receptor class B member 2
+STBD1	0.24496321972795862	0.40294589563540145	No data	No data	No data	No data	No data	No data	starch binding domain 1
+TMEM230	0.2434452530234414	0.3799567485072632	No data	No data	No data	0.40984414326255314	No data	No data	transmembrane protein 230
+LZTS3	0.2420994608546154	0.39823522974284575	No data	No data	No data	No data	No data	No data	leucine zipper tumor suppressor family member 3
+SV2C	0.24169292737575718	0.3760958198277781	No data	No data	No data	0.20417362716634152	0.016685227287486504	0.33449872311585416	synaptic vesicle glycoprotein 2C
+TPM1	0.23846978415425935	0.3916567563857587	No data	No data	No data	0.012158615952232422	No data	No data	tropomyosin 1
+PPFIBP1	0.23801664953167878	0.39151931513714266	No data	No data	No data	No data	No data	No data	PPFIA binding protein 1
+KLHL7	0.23571179069631581	0.3877279973680511	No data	No data	No data	No data	No data	No data	kelch like family member 7
+BAG3	0.2353422079357061	0.38552947840632906	No data	No data	No data	0.031811667681688104	No data	No data	BAG cochaperone 3
+MICU3	0.23497025161580867	0.3865082218879793	No data	No data	No data	No data	No data	No data	mitochondrial calcium uptake family member 3
+ATXN2	0.23381082320458463	0.3799567485072632	No data	No data	No data	0.09288603366496209	No data	No data	ataxin 2
+TBP	0.23322305617288297	0.3799567485072632	No data	No data	No data	0.07354939094145453	No data	No data	TATA-box binding protein
+GAK	0.232058047242094	0.37166331051784623	No data	No data	No data	0.2010911261616695	No data	No data	cyclin G associated kinase
+CD38	0.23178025627578508	0.38034902558346384	No data	No data	No data	0.01823792392834863	No data	No data	CD38 molecule
+RIMS1	0.2306664340987978	0.37882083807709827	No data	No data	No data	0.012158615952232422	No data	No data	regulating synaptic membrane exocytosis 1
+FBRSL1	0.2287416297217168	0.37626261183077825	No data	No data	No data	No data	No data	No data	fibrosin like 1
+PBX1	0.2272336653810546	0.368035595376908	No data	No data	No data	0.11493059235781342	No data	No data	PBX homeobox 1
+RNF141	0.22041507658365705	0.3625660641796767	No data	No data	No data	No data	No data	No data	ring finger protein 141
+CLCN3	0.21918171304563372	0.36053727481274733	No data	No data	No data	No data	No data	No data	chloride voltage-gated channel 3
+NR4A2	0.21582259683686844	0.31719029674278465	No data	No data	No data	0.7522168720275534	0.00947895179755717	No data	nuclear receptor subfamily 4 group A member 2
+NOD2	0.2146558936001184	0.3448244028064548	No data	No data	No data	0.16536485355856675	No data	No data	nucleotide binding oligomerization domain containing 2
+SCAF11	0.1997145976170429	0.3285153481311722	No data	No data	No data	No data	No data	No data	SR-related CTD associated factor 11
+GIN1	0.19910680441877893	0.32751557447165075	No data	No data	No data	No data	No data	No data	gypsy retrotransposon integrase 1
+TRIM40	0.19785080104121525	0.3233217864961501	No data	No data	No data	0.04255515583281348	No data	No data	tripartite motif containing 40
+CHD9	0.1960873432137592	0.32254879006644827	No data	No data	No data	No data	No data	No data	chromodomain helicase DNA binding protein 9
+CCAR2	0.19521812906344588	0.32111899879130934	No data	No data	No data	No data	No data	No data	cell cycle and apoptosis regulator 2
+ENSG00000288636	0.1923626618219082	0.3164219720034645	No data	No data	No data	No data	No data	No data	novel  protein
+GBF1	0.1872066933813325	0.3079407954273937	No data	No data	No data	No data	No data	No data	golgi brefeldin A resistant guanine nucleotide exchange factor 1
+ADH1C	0.1868874470092927	0.3039653988058105	No data	No data	No data	0.0690052116188991	No data	No data	alcohol dehydrogenase 1C (class I), gamma polypeptide
+ADH1B	0.1854366920880491	0.3039653988058105	No data	No data	No data	0.021277577916406734	No data	No data	alcohol dehydrogenase 1B (class I), beta polypeptide
+DLG2	0.1843173024056983	0.30318796667289444	No data	No data	No data	No data	No data	No data	discs large MAGUK scaffold protein 2
+AUP1	0.18353973109588723	0.3019089209116566	No data	No data	No data	No data	No data	No data	AUP1 lipid droplet regulating VLDL assembly factor
+LOXL3	0.18113733371409824	0.29795715964009856	No data	No data	No data	No data	No data	No data	lysyl oxidase like 3
+FTMT	0.18094164209313401	0.2949802632368481	No data	No data	No data	0.05309997092472137	No data	No data	ferritin mitochondrial
+SPPL2B	0.18090056898791987	0.29300821866172805	No data	No data	No data	0.09118961964174316	No data	No data	signal peptide peptidase like 2B
+NEK1	0.1807193364274001	0.29726958584331065	No data	No data	No data	No data	No data	No data	NIMA related kinase 1
+UBTF	0.17516169348598856	0.287519754416144	No data	No data	No data	0.012158615952232422	No data	No data	upstream binding transcription factor
+CARS2	0.17371815756618234	0.25026697977082923	No data	No data	No data	No data	No data	0.7097239693401018	cysteinyl-tRNA synthetase 2, mitochondrial
+SLC26A1	0.17343237291438024	0.2852830841861349	No data	No data	No data	No data	No data	No data	solute carrier family 26 member 1
+DNAH17	0.1733052991620846	0.28507405751271275	No data	No data	No data	No data	No data	No data	dynein axonemal heavy chain 17
+DQX1	0.17330010030448648	0.28506550578672923	No data	No data	No data	No data	No data	No data	DEAQ-box RNA dependent ATPase 1
+TNR	0.173094778162995	0.2847277664547228	No data	No data	No data	No data	No data	No data	tenascin R
+RABGEF1	0.17030768099553154	0.28014320324717823	No data	No data	No data	No data	No data	No data	RAB guanine nucleotide exchange factor 1
+NDN	0.1692650056068947	0.27424855717286717	No data	No data	No data	0.08359048467159791	No data	No data	necdin, MAGE family member
+NPIPB11	0.1668294962486904	0.27442185344798087	No data	No data	No data	No data	No data	No data	nuclear pore complex interacting protein family member B11
+PROM2	0.16434478275872677	0.270334688428993	No data	No data	No data	No data	No data	No data	prominin 2
+TTC6	0.16359097248189755	0.2690947277627614	No data	No data	No data	No data	No data	No data	tetratricopeptide repeat domain 6
+MMRN1	0.16191192629714762	0.26329317029597443	No data	No data	No data	0.06079307976116211	No data	No data	multimerin 1
+VAMP4	0.16185651780562577	0.2651018112772959	No data	No data	No data	0.02279740491043579	No data	No data	vesicle associated membrane protein 4
+DCUN1D1	0.15745466435334649	0.2590009668402044	No data	No data	No data	No data	No data	No data	defective in cullin neddylation 1 domain containing 1
+ZNF646	0.15715459906273918	0.2585073822220436	No data	No data	No data	No data	No data	No data	zinc finger protein 646
+IDUA	0.15413813736339108	0.23494791545897362	No data	No data	No data	0.01823792392834863	No data	0.3638465823705552	alpha-L-iduronidase
+MIPOL1	0.14826294613613847	0.24388128832857192	No data	No data	No data	No data	No data	No data	mirror-image polydactyly 1
+SLC44A4	0.14811764498954177	0.24364227897558713	No data	No data	No data	No data	No data	No data	solute carrier family 44 member 4
+MRE11	0.1478319418738807	0.24317231904464845	No data	No data	No data	No data	No data	No data	MRE11 homolog, double strand break repair nuclease
+MED13	0.14611607268136842	0.2403498445142357	No data	No data	No data	No data	No data	No data	mediator complex subunit 13
+PGS1	0.142896518358157	0.23505392212329898	No data	No data	No data	No data	No data	No data	phosphatidylglycerophosphate synthase 1
+RPS12	0.14099567968256466	0.2313192560409145	No data	No data	No data	0.012158615952232422	No data	No data	ribosomal protein S12
+MED12L	0.14074445990378415	0.2315139493783292	No data	No data	No data	No data	No data	No data	mediator complex subunit 12L
+SLC41A1	0.13967582143204182	0.22365430200406283	No data	No data	No data	0.12203636466568148	No data	No data	solute carrier family 41 member 1
+BTNL2	0.13953240910974687	0.2295202178569142	No data	No data	No data	No data	No data	No data	butyrophilin like 2
+C8orf58	0.13616807406740825	0.22398614217666224	No data	No data	No data	No data	No data	No data	chromosome 8 open reading frame 58
+P2RY12	0.13589121691903555	0.2229228023925996	No data	No data	No data	0.012158615952232422	No data	No data	purinergic receptor P2Y12
+BCKDK	0.13513245808372548	0.21755850361459766	No data	No data	No data	0.0944825781288061	No data	No data	branched chain keto acid dehydrogenase kinase
+TOMM40	0.1334482428349506	0.21355717697041277	No data	No data	No data	0.11910098708156834	No data	No data	translocase of outer mitochondrial membrane 40
+STX4	0.1332485263425815	0.2158400884727728	No data	No data	No data	0.06687238773727831	No data	No data	syntaxin 4
+CLEC19A	0.1322105254447954	0.2174762752014064	No data	No data	No data	No data	No data	No data	C-type lectin domain containing 19A
+ADCY5	0.1307725504867267	0.18237923928348632	No data	No data	No data	0.056233598779074946	No data	0.6296408154674402	adenylate cyclase 5
+CSF1R	0.13004603113842864	0.19453785523571876	No data	No data	No data	0.08067748293304221	No data	0.35170316468826307	colony stimulating factor 1 receptor
+DDRGK1	0.12808130369067294	0.20725275621697098	No data	No data	No data	0.06862525487039182	No data	No data	DDRGK domain containing 1
+LRRC37A	0.12666691819756773	0.2083574622230101	No data	No data	No data	No data	No data	No data	leucine rich repeat containing 37A
+ITGA2B	0.12601247533881427	0.20576112642020777	No data	No data	No data	0.030396539880581056	No data	No data	integrin subunit alpha 2b
+UGT2B10	0.12565174387457229	0.20668757754701778	No data	No data	No data	No data	No data	No data	UDP glucuronosyltransferase family 2 member B10
+SNX20	0.12390181889975105	0.203809083840668	No data	No data	No data	No data	No data	No data	sorting nexin 20
+STX1B	0.12303406288779897	0.1958043619833989	No data	No data	No data	0.13154658218026957	No data	No data	syntaxin 1B
+BIN3	0.12281847615214768	0.20202706728243555	No data	No data	No data	No data	No data	No data	bridging integrator 3
+HLA-DQB1	0.1221744984488311	0.1964082918776171	No data	No data	No data	0.09118961964174316	No data	No data	major histocompatibility complex, class II, DQ beta 1
+HLA-DQA1	0.12187760236833085	0.1992635397562984	No data	No data	No data	0.024317231904464845	No data	No data	major histocompatibility complex, class II, DQ alpha 1
+TGM6	0.12186895708228042	0.19453785523571876	No data	No data	No data	0.11854650553426611	No data	No data	transglutaminase 6
+LAMP3	0.12052405324904131	0.19825291582947335	No data	No data	No data	No data	No data	No data	lysosomal associated membrane protein 3
+TYROBP	0.12046285972681124	0.19453785523571876	No data	No data	No data	0.07228803792600184	No data	No data	transmembrane immune signaling adaptor TYROBP
+PBXIP1	0.11991981630515176	0.19725899193836038	No data	No data	No data	No data	No data	No data	PBX homeobox interacting protein 1
+ITIH3	0.11909064592788181	0.19589506962922995	No data	No data	No data	No data	No data	No data	inter-alpha-trypsin inhibitor heavy chain 3
+FOXA1	0.11837122717241179	0.1941037496065677	No data	No data	No data	0.012158615952232422	No data	No data	forkhead box A1
+PDGFRB	0.11826555349910459	0.19453785523571876	No data	No data	No data	No data	No data	No data	platelet derived growth factor receptor beta
+TMEM248	0.11686734673547168	0.1922379112797191	No data	No data	No data	No data	No data	No data	transmembrane protein 248
+IP6K2	0.11665265250603343	0.19188475557469195	No data	No data	No data	No data	No data	No data	inositol hexakisphosphate kinase 2
+ZBTB4	0.1156838120624577	0.19029108661206987	No data	No data	No data	No data	No data	No data	zinc finger and BTB domain containing 4
+HSD3B7	0.11498082050062518	0.18576154729477068	No data	No data	No data	0.06746343156828963	No data	No data	hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 7
+PPIP5K2	0.11449221489404432	0.1883309997516989	No data	No data	No data	No data	No data	No data	diphosphoinositol pentakisphosphate kinase 2
+NDUFV2	0.11328104764829472	0.18237923928348632	No data	No data	No data	0.07918964633280377	No data	No data	NADH:ubiquinone oxidoreductase core subunit V2
+PLEKHH1	0.11145402403675958	0.18333340649072102	No data	No data	No data	No data	No data	No data	pleckstrin homology, MyTH4 and FERM domain containing H1
+NUP42	0.11122825400398391	0.18144220493619487	No data	No data	No data	0.030396539880581056	No data	No data	nucleoporin 42
+KCTD7	0.1091921815453901	0.17961284734113428	No data	No data	No data	No data	No data	No data	potassium channel tetramerization domain containing 7
+ARID2	0.1091753406226228	0.17958514530196557	No data	No data	No data	No data	No data	No data	AT-rich interaction domain 2
+MLX	0.10734533039636851	0.17657491743813	No data	No data	No data	No data	No data	No data	MAX dimerization protein MLX
+TRIM15	0.10409111119795803	0.1712219739597023	No data	No data	No data	No data	No data	No data	tripartite motif containing 15
+GSDMC	0.10403291143608591	0.1711262397707111	No data	No data	No data	No data	No data	No data	gasdermin C
+ASL	0.0991193381640416	0.16304378484105747	No data	No data	No data	No data	No data	No data	argininosuccinate lyase
+SLC35G6	0.09615248304345916	0.15816353345021114	No data	No data	No data	No data	No data	No data	solute carrier family 35 member G6
+FDFT1	0.0949084661929811	0.15611722019323282	No data	No data	No data	No data	No data	No data	farnesyl-diphosphate farnesyltransferase 1
+WNT9B	0.09353732815430568	0.15386180223437596	No data	No data	No data	No data	No data	No data	Wnt family member 9B
+PRSS53	0.09344953027524201	0.1537173813900815	No data	No data	No data	No data	No data	No data	serine protease 53
+BRIP1	0.09341406529252616	0.15365904418648008	No data	No data	No data	No data	No data	No data	BRCA1 interacting helicase 1
+KAT8	0.09082027956715771	0.1493924636224444	No data	No data	No data	No data	No data	No data	lysine acetyltransferase 8
+HLA-DRB5	0.0902616423576181	0.1465789990489176	No data	No data	No data	0.03789097565780432	No data	No data	major histocompatibility complex, class II, DR beta 5
+CHRNB1	0.0882515239248427	0.14516705564441978	No data	No data	No data	No data	No data	No data	cholinergic receptor nicotinic beta 1 subunit
+ARL17B	0.08742567041601962	0.14380858933202434	No data	No data	No data	No data	No data	No data	ADP ribosylation factor like GTPase 17B
+MAGEL2	0.08570064179948039	0.14097104824459078	No data	No data	No data	No data	No data	No data	MAGE family member L2
+CD19	0.08413133544598007	0.1383896584553818	No data	No data	No data	No data	No data	No data	CD19 molecule
+APOC1	0.0836028620026597	0.13752035976974752	No data	No data	No data	No data	No data	No data	apolipoprotein C1
+KCNN3	0.0835204362044065	0.13738477559046752	No data	No data	No data	No data	No data	No data	potassium calcium-activated channel subfamily N member 3
+NECTIN2	0.08344909557244286	0.13726742566800282	No data	No data	No data	No data	No data	No data	nectin cell adhesion molecule 2
+CEL	0.08172971412171727	0.13443917373952588	No data	No data	No data	No data	No data	No data	carboxyl ester lipase
+KPNA1	0.08103645516791835	0.13329881540182933	No data	No data	No data	No data	No data	No data	karyopherin subunit alpha 1
+H2AC13	0.08078911591311819	0.13289196110891988	No data	No data	No data	No data	No data	No data	H2A clustered histone 13
+H2BC13	0.08076940356582567	0.13285953579444335	No data	No data	No data	No data	No data	No data	H2B clustered histone 13
+MTRNR2L8	0.08070362941008895	0.13275134230269212	No data	No data	No data	No data	No data	No data	MT-RNR2 like 8 (pseudogene)
+WDHD1	0.08042064630507839	0.13228585658273465	No data	No data	No data	No data	No data	No data	WD repeat and HMG-box DNA binding protein 1
+LRRC37A2	0.07981000350941807	0.13128139555187496	No data	No data	No data	No data	No data	No data	leucine rich repeat containing 37 member A2
+SPATA19	0.07970227274771485	0.13110418662920406	No data	No data	No data	No data	No data	No data	spermatogenesis associated 19
+POLR2A	0.07840387419060932	0.12896841959419522	No data	No data	No data	No data	No data	No data	RNA polymerase II subunit A
+CCDC90B	0.07702580978740906	0.12670160829163535	No data	No data	No data	No data	No data	No data	coiled-coil domain containing 90B
+SATB1	0.07647576401418514	0.12518889396375205	No data	No data	No data	0.012158615952232422	No data	No data	SATB homeobox 1
+ADAMTSL1	0.07617586422703707	0.12530351238382614	No data	No data	No data	No data	No data	No data	ADAMTS like 1
+NMD3	0.07486351466606321	0.11924390772212233	No data	No data	No data	0.07801778569349137	No data	No data	NMD3 ribosome export adaptor
+MKRN3	0.07400758379450044	0.12173685571656212	No data	No data	No data	No data	No data	No data	makorin ring finger protein 3
+CRCP	0.07390020501355964	0.1215602257755184	No data	No data	No data	No data	No data	No data	CGRP receptor component
+GRN	0.07175825395283965	0.09530611186204067	No data	No data	No data	0.21561321171268238	No data	0.35878724717709853	granulin precursor
+H3C10	0.07106394178320853	0.11689478812785531	No data	No data	No data	No data	No data	No data	H3 clustered histone 10
+SAR1B	0.07073841813945475	0.1163593264519003	No data	No data	No data	No data	No data	No data	secretion associated Ras related GTPase 1B
+H2AC14	0.06983881707516384	0.11487955101064093	No data	No data	No data	No data	No data	No data	H2A clustered histone 14
+AREL1	0.06980366982550328	0.11482173645378896	No data	No data	No data	No data	No data	No data	apoptosis resistant E3 ubiquitin protein ligase 1
+H4C11	0.06957873268243264	0.11445173193361276	No data	No data	No data	No data	No data	No data	H4 clustered histone 11
+DOCK4	0.0694454450042982	0.11423248382402841	No data	No data	No data	No data	No data	No data	dedicator of cytokinesis 4
+PDLIM2	0.06892627179260741	0.11337848331322939	No data	No data	No data	No data	No data	No data	PDZ and LIM domain 2
+FAM171A2	0.06857689836875935	0.11280379056000707	No data	No data	No data	No data	No data	No data	family with sequence similarity 171 member A2
+ITPA	0.06831917938159725	0.11237986239552748	No data	No data	No data	No data	No data	No data	inosine triphosphatase
+TUBG2	0.0670243558376605	0.11024997598571946	No data	No data	No data	No data	No data	No data	tubulin gamma 2
+DLST	0.06690357326826159	0.1089114275849316	No data	No data	No data	0.02279740491043579	No data	No data	dihydrolipoamide S-succinyltransferase
+CYLD	0.06595408160206721	0.10848945613741094	No data	No data	No data	No data	No data	No data	CYLD lysine 63 deubiquitinase
+ATP2A1	0.06494122511034964	0.10682338411787058	No data	No data	No data	No data	No data	No data	ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 1
+WDR6	0.06442646727139552	0.10597664655995041	No data	No data	No data	No data	No data	No data	WD repeat domain 6
+H2BC14	0.0638900127928837	0.10509421967745099	No data	No data	No data	No data	No data	No data	H2B clustered histone 14
+VKORC1	0.06369574702436659	0.08577682981407955	No data	0.07599134970145263	No data	No data	No data	No data	vitamin K epoxide reductase complex subunit 1
+SEC24A	0.06289227187378238	0.10345301162709204	No data	No data	No data	No data	No data	No data	SEC24 homolog A, COPII coat complex component
+CAMLG	0.06256591153234566	0.10291617364698166	No data	No data	No data	No data	No data	No data	calcium modulating ligand
+SETD1A	0.06243155863769842	0.10269517333711897	No data	No data	No data	No data	No data	No data	SET domain containing 1A, histone lysine methyltransferase
+ZNF514	0.06236478421371097	0.10258533448004875	No data	No data	No data	No data	No data	No data	zinc finger protein 514
+PAM	0.0623527290207948	0.10256550460308984	No data	No data	No data	No data	No data	No data	peptidylglycine alpha-amidating monooxygenase
+VNN2	0.06205810649423971	0.10208087291850901	No data	No data	No data	No data	No data	No data	vanin 2
+LRRN4	0.061951939290476404	0.10190623592992346	No data	No data	No data	No data	No data	No data	leucine rich repeat neuronal 4
+FAM171A1	0.06181947948516901	0.10168834960827668	No data	No data	No data	No data	No data	No data	family with sequence similarity 171 member A1
+PARP9	0.06150210822031403	0.10116629797657478	No data	No data	No data	No data	No data	No data	poly(ADP-ribose) polymerase family member 9
+OR6Q1	0.06123240012626362	0.100722648641634	No data	No data	No data	No data	No data	No data	olfactory receptor family 6 subfamily Q member 1
+UGT2A3	0.05992127536212046	0.09856594796238864	No data	No data	No data	No data	No data	No data	UDP glucuronosyltransferase family 2 member A3
+HSD17B1	0.05947232543899627	0.09782745942900954	No data	No data	No data	No data	No data	No data	hydroxysteroid 17-beta dehydrogenase 1
+UBAP2	0.059405969559851966	0.09771830904642488	No data	No data	No data	No data	No data	No data	ubiquitin associated protein 2
+NAXD	0.05929076509177828	0.09752880644427626	No data	No data	No data	No data	No data	No data	NAD(P)HX dehydratase
+STH	0.05878418986602869	0.09348168561520592	No data	No data	No data	0.0642768609708087	No data	No data	saitohin
+WDR5B	0.05877732071262795	0.09668422942799826	No data	No data	No data	No data	No data	No data	WD repeat domain 5B
+ITGAX	0.05831750399776226	0.0959278658473536	No data	No data	No data	No data	No data	No data	integrin subunit alpha X
+HLA-DQA2	0.05822883271925283	0.09456614673206756	No data	No data	No data	0.024317231904464845	No data	No data	major histocompatibility complex, class II, DQ alpha 2
+SRFBP1	0.05690579193936819	0.09360570670697074	No data	No data	No data	No data	No data	No data	serum response factor binding protein 1
+UBE2R2	0.0560360061908069	0.09217497519611717	No data	No data	No data	No data	No data	No data	ubiquitin conjugating enzyme E2 R2
+LSM7	0.05551188891815655	0.09131284208045755	No data	No data	No data	No data	No data	No data	LSM7 homolog, U6 small nuclear RNA and mRNA degradation associated
+ING1	0.055404047535020706	0.0911354511939298	No data	No data	No data	No data	No data	No data	inhibitor of growth family member 1
+WWOX	0.05539549027555937	0.0896015481578661	No data	No data	No data	0.030396539880581056	No data	No data	WW domain containing oxidoreductase
+MAF	0.05411328202565363	0.0884043091452381	No data	No data	No data	0.012158615952232422	No data	No data	MAF bZIP transcription factor
+C2CD4A	0.05409940992911447	0.08898942139739412	No data	No data	No data	No data	No data	No data	C2 calcium dependent domain containing 4A
+FAM200B	0.053273013558757173	0.08763006211899606	No data	No data	No data	No data	No data	No data	family with sequence similarity 200 member B
+TPST1	0.052285591066518554	0.0860058270973161	No data	No data	No data	No data	No data	No data	tyrosylprotein sulfotransferase 1
+HSPA1L	0.052282066478365814	0.08600002941743776	No data	No data	No data	No data	No data	No data	heat shock protein family A (Hsp70) member 1 like
+DDAH2	0.0506160597445937	0.08325957484544147	No data	No data	No data	No data	No data	No data	dimethylarginine dimethylaminohydrolase 2
+OR9Q1	0.05016421855775047	0.08251633040278718	No data	No data	No data	No data	No data	No data	olfactory receptor family 9 subfamily Q member 1
+FBXL19	0.04922871576164755	0.08097749933882689	No data	No data	No data	No data	No data	No data	F-box and leucine rich repeat protein 19
+NOL4	0.048976357346160196	0.04136120990235637	No data	No data	No data	No data	No data	0.35111043216059173	nucleolar protein 4
+ZNF668	0.04851577533321004	0.07980476646982529	No data	No data	No data	No data	No data	No data	zinc finger protein 668
+SPNS1	0.04812885701424719	0.07916831521503949	No data	No data	No data	No data	No data	No data	sphingolipid transporter 1 (putative)
+MSR1	0.04797966558817923	0.07892290664772543	No data	No data	No data	No data	No data	No data	macrophage scavenger receptor 1
+NFKB2	0.04790968270283669	0.07880779011535449	No data	No data	No data	No data	No data	No data	nuclear factor kappa B subunit 2
+NCKIPSD	0.047104533219902996	0.0774833803534262	No data	No data	No data	No data	No data	No data	NCK interacting protein with SH3 domain
+PSMC3IP	0.04651487099874192	0.07651343077449767	No data	No data	No data	No data	No data	No data	PSMC3 interacting protein
+ARL17A	0.04640930269960613	0.0763397789385477	No data	No data	No data	No data	No data	No data	ADP ribosylation factor like GTPase 17A
+AMPD3	0.0459073917091103	0.07551417347084036	No data	No data	No data	No data	No data	No data	adenosine monophosphate deaminase 3
+SLC45A3	0.04478327353811685	0.0736650844373356	No data	No data	No data	No data	No data	No data	solute carrier family 45 member 3
+IQGAP2	0.04461116659066594	0.07338198157739322	No data	No data	No data	No data	No data	No data	IQ motif containing GTPase activating protein 2
+PROX2	0.04422105801460105	0.07274028259192067	No data	No data	No data	No data	No data	No data	prospero homeobox 2
+DTX3L	0.04329184440548317	0.0712117967629933	No data	No data	No data	No data	No data	No data	deltex E3 ubiquitin ligase 3L
+ZNF2	0.04253580372521358	0.06996816725246373	No data	No data	No data	No data	No data	No data	zinc finger protein 2
+FBXL5	0.04200652224443555	0.06909753940656842	No data	No data	No data	No data	No data	No data	F-box and leucine rich repeat protein 5
+PRSS8	0.041539649788642476	0.0683295696678625	No data	No data	No data	No data	No data	No data	serine protease 8
+SLC4A1	0.0405882677591569	0.06676461847074718	No data	No data	No data	No data	No data	No data	solute carrier family 4 member 1 (Diego blood group)
+NEK4	0.04028152670724226	0.0662600527321471	No data	No data	No data	No data	No data	No data	NIMA related kinase 4
+PITX3	0.03958621489606427	0.05713764803319003	No data	No data	No data	0.1595733913350359	No data	No data	paired like homeodomain 3
+P4HTM	0.0393050402479219	0.06465380665421079	No data	No data	No data	No data	No data	No data	prolyl 4-hydroxylase, transmembrane
+MACROH2A1	0.03929223263804266	0.06463273910848098	No data	No data	No data	No data	No data	No data	macroH2A.1 histone
+C5orf24	0.03883470529921864	0.06388014137758545	No data	No data	No data	No data	No data	No data	chromosome 5 open reading frame 24
+DDX46	0.03880694916751582	0.06383448464854348	No data	No data	No data	No data	No data	No data	DEAD-box helicase 46
+RAB20	0.038742215149638666	0.06372800210459033	No data	No data	No data	No data	No data	No data	RAB20, member RAS oncogene family
+OGFRL1	0.038235263722725954	0.0628941055017132	No data	No data	No data	No data	No data	No data	opioid growth factor receptor like 1
+FAM162A	0.03794788587697544	0.06242139076694481	No data	No data	No data	No data	No data	No data	family with sequence similarity 162 member A
+TRIM10	0.03691770953704663	0.05753519222478576	No data	No data	No data	0.06383273374922022	No data	No data	tripartite motif containing 10
+PRSS3	0.03669431653593272	0.060359364388337874	No data	No data	No data	No data	No data	No data	serine protease 3
+MRPS5	0.03660286173412261	0.06020892818380702	No data	No data	No data	No data	No data	No data	mitochondrial ribosomal protein S5
+LAT	0.03642346295073267	0.05991383080743663	No data	No data	No data	No data	No data	No data	linker for activation of T cells
+IFRD1	0.036336364319592585	0.05977056017288042	No data	No data	No data	No data	No data	No data	interferon related developmental regulator 1
+GPRIN3	0.03599638750283141	0.05921132412480252	No data	No data	No data	No data	No data	No data	GPRIN family member 3
+SETDB2	0.035947863836872374	0.05913150637885236	No data	No data	No data	No data	No data	No data	SET domain bifurcated histone lysine methyltransferase 2
+METTL13	0.03545919896458649	0.05832768976978156	No data	No data	No data	No data	No data	No data	methyltransferase 13, eEF1A lysine and N-terminal methyltransferase
+MALSU1	0.03534005778854742	0.05813171158195633	No data	No data	No data	No data	No data	No data	mitochondrial assembly of ribosomal large subunit 1
+COASY	0.034565286308685904	0.05685727132838576	No data	No data	No data	No data	No data	No data	Coenzyme A synthase
+H4C12	0.03381198337979979	0.055618145210996055	No data	No data	No data	No data	No data	No data	H4 clustered histone 12
+RORA	0.03348685621075645	0.05447540490822254	No data	No data	No data	0.012158615952232422	No data	No data	RAR related orphan receptor A
+HLA-DQB2	0.033122438323087595	0.05448389595199944	No data	No data	No data	No data	No data	No data	major histocompatibility complex, class II, DQ beta 2
+JADE2	0.03278463133090796	0.05392822910059666	No data	No data	No data	No data	No data	No data	jade family PHD finger 2
+USP19	0.0322347171019225	0.05302366195060869	No data	No data	No data	No data	No data	No data	ubiquitin specific peptidase 19
+CDADC1	0.03218747522954557	0.05294595265777053	No data	No data	No data	No data	No data	No data	cytidine and dCMP deaminase domain containing 1
+SYT4	0.03181583616834648	0.05172670382419307	No data	No data	No data	0.012158615952232422	No data	No data	synaptotagmin 4
+SH2B1	0.031676456758334734	0.05210536607584629	No data	No data	No data	No data	No data	No data	SH2B adaptor protein 1
+FCF1	0.031589115811759154	0.05196169685079844	No data	No data	No data	No data	No data	No data	FCF1 rRNA-processing protein
+EIF3C	0.03111562043645253	0.051182832912391556	No data	No data	No data	No data	No data	No data	eukaryotic translation initiation factor 3 subunit C
+IGF2BP3	0.030782409176793927	0.05063472569201764	No data	No data	No data	No data	No data	No data	insulin like growth factor 2 mRNA binding protein 3
+MAL	0.030778504593980967	0.05062830294977741	No data	No data	No data	No data	No data	No data	mal, T cell differentiation protein
+ZDHHC2	0.030528100465783813	0.050216407172855235	No data	No data	No data	No data	No data	No data	zinc finger DHHC-type palmitoyltransferase 2
+C2CD4B	0.030124181889034225	0.04955199178489255	No data	No data	No data	No data	No data	No data	C2 calcium dependent domain containing 4B
+PDZRN4	0.030026181252778714	0.04939078817974452	No data	No data	No data	No data	No data	No data	PDZ domain containing ring finger 4
+PSD	0.029758901820252297	0.048951133808594914	No data	No data	No data	No data	No data	No data	pleckstrin and Sec7 domain containing
+SOCS3	0.02965448589622739	0.04877937754219892	No data	No data	No data	No data	No data	No data	suppressor of cytokine signaling 3
+EHMT2	0.029602985605429975	0.048694663474414	No data	No data	No data	No data	No data	No data	euchromatic histone lysine methyltransferase 2
+RETREG3	0.029413819857838645	0.048383500183568226	No data	No data	No data	No data	No data	No data	reticulophagy regulator family member 3
+RPS6KL1	0.028559963595577043	0.046978971468102336	No data	No data	No data	No data	No data	No data	ribosomal protein S6 kinase like 1
+PLEKHH3	0.02855209935826124	0.046966035394873776	No data	No data	No data	No data	No data	No data	pleckstrin homology, MyTH4 and FERM domain containing H3
+SLC25A20	0.028513158854738582	0.04690198122345222	No data	No data	No data	No data	No data	No data	solute carrier family 25 member 20
+PCBP3	0.028023064183704025	0.0460958127040089	No data	No data	No data	No data	No data	No data	poly(rC) binding protein 3
+ITIH1	0.027972453300698284	0.04601256164450578	No data	No data	No data	No data	No data	No data	inter-alpha-trypsin inhibitor heavy chain 1
+YLPM1	0.027857196514519202	0.04582297298304647	No data	No data	No data	No data	No data	No data	YLP motif containing 1
+SBDS	0.027173365834028858	0.0446981234390245	No data	No data	No data	No data	No data	No data	SBDS ribosome maturation factor
+CPLX1	0.027145654476452098	0.03894243144542276	No data	No data	No data	0.11420217829194593	No data	No data	complexin 1
+ZFP57	0.027108122403020254	0.04459080294915143	No data	No data	No data	No data	No data	No data	ZFP57 zinc finger protein
+OLFM3	0.027083814791698513	0.044550818774279494	No data	No data	No data	No data	No data	No data	olfactomedin 3
+ITIH4	0.027082318628809943	0.04348447880411574	No data	No data	No data	0.021277577916406734	No data	No data	inter-alpha-trypsin inhibitor heavy chain 4
+VARS1	0.026801196860944506	0.044085933738245243	No data	No data	No data	No data	No data	No data	valyl-tRNA synthetase 1
+NFATC2IP	0.026673135906866804	0.04387528319285288	No data	No data	No data	No data	No data	No data	nuclear factor of activated T cells 2 interacting protein
+BOLA2-SMG1P6	0.026646508744806653	0.04383148353314694	No data	No data	No data	No data	No data	No data	BOLA2-SMG1P6 readthrough
+PRKAR2A	0.026450893758131547	0.04350971173371908	No data	No data	No data	No data	No data	No data	protein kinase cAMP-dependent type II regulatory subunit alpha
+TUFM	0.026357898923324703	0.04244484609543064	No data	No data	No data	0.01823792392834863	No data	No data	Tu translation elongation factor, mitochondrial
+COL5A2	0.02593574525437729	0.04266233156186708	No data	No data	No data	No data	No data	No data	collagen type V alpha 2 chain
+MCM8	0.025527454759896345	0.04199072470120959	No data	No data	No data	No data	No data	No data	minichromosome maintenance 8 homologous recombination repair factor
+MYOC	0.025483107158152725	0.04100588006737486	No data	No data	No data	0.01823792392834863	No data	No data	myocilin
+PCGF3	0.02544168886365152	0.04184964631435738	No data	No data	No data	No data	No data	No data	polycomb group ring finger 3
+HLA-DRB1	0.02530993571257259	0.03621373982236715	No data	No data	No data	0.10838365125781632	No data	No data	major histocompatibility complex, class II, DR beta 1
+SLX1B	0.025301492862707314	0.041619034538321366	No data	No data	No data	No data	No data	No data	SLX1 homolog B, structure-specific endonuclease subunit
+DPH5	0.025153259492822228	0.04137520190067996	No data	No data	No data	No data	No data	No data	diphthamide biosynthesis 5
+BOLA2	0.02505376938725961	0.041211548231621764	No data	No data	No data	No data	No data	No data	bolA family member 2
+HPF1	0.02473646007805575	0.04068959851226148	No data	No data	No data	No data	No data	No data	histone PARylation factor 1
+UGT2B7	0.02469555007322352	0.04062230466073602	No data	No data	No data	No data	No data	No data	UDP glucuronosyltransferase family 2 member B7
+ATXN2L	0.024631829374440282	0.040517488949747896	No data	No data	No data	No data	No data	No data	ataxin 2 like
+NAGLU	0.024409835392507576	0.040152325706160216	No data	No data	No data	No data	No data	No data	N-acetyl-alpha-glucosaminidase
+ATAT1	0.024154853468332828	0.03973289980246115	No data	No data	No data	No data	No data	No data	alpha tubulin acetyltransferase 1
+TMPRSS9	0.023942169355575447	0.03938305058673963	No data	No data	No data	No data	No data	No data	transmembrane serine protease 9
+CTF1	0.023914382934443184	0.0393373440338862	No data	No data	No data	No data	No data	No data	cardiotrophin 1
+RALGDS	0.02385210236035048	0.03923489721866087	No data	No data	No data	No data	No data	No data	ral guanine nucleotide dissociation stimulator
+ABCF1	0.0233092340584408	0.03682209308966441	No data	No data	No data	0.030396539880581056	No data	No data	ATP binding cassette subfamily F member 1
+NT5DC2	0.02307405640959446	0.03795507070910958	No data	No data	No data	No data	No data	No data	5'-nucleotidase domain containing 2
+VNN1	0.022781720734961906	0.03747420072229355	No data	No data	No data	No data	No data	No data	vanin 1
+SULT1A4	0.022741069567072145	0.037407332637884164	No data	No data	No data	No data	No data	No data	sulfotransferase family 1A member 4
+TRIM26	0.02204829249055973	0.036267766951733484	No data	No data	No data	No data	No data	No data	tripartite motif containing 26
+H2AC15	0.02199040113015098	0.03617254005973165	No data	No data	No data	No data	No data	No data	H2A clustered histone 15
+PM20D1	0.02186613806299425	0.034296327056506995	No data	No data	No data	0.03343619386863916	No data	No data	peptidase M20 domain containing 1
+HLA-E	0.02184475303190801	0.03593295999763383	No data	No data	No data	No data	No data	No data	major histocompatibility complex, class I, E
+GOSR2	0.02177218781972899	0.035813595733700986	No data	No data	No data	No data	No data	No data	golgi SNAP receptor complex member 2
+NEU1	0.02168880652765625	0.035676439839641465	No data	No data	No data	No data	No data	No data	neuraminidase 1
+H2BC15	0.02150440310444786	0.03537311021078756	No data	No data	No data	No data	No data	No data	H2B clustered histone 15
+VNN3P	0.02147534315048697	0.03532530879313434	No data	No data	No data	No data	No data	No data	vanin 3, pseudogene
+HLA-DOA	0.020842972833818873	0.03428510764005492	No data	No data	No data	No data	No data	No data	major histocompatibility complex, class II, DO alpha
+CCDC158	0.020758211995914475	0.03414568249785552	No data	No data	No data	No data	No data	No data	coiled-coil domain containing 158
+C2	0.020595139214991395	0.03387744015585912	No data	No data	No data	No data	No data	No data	complement C2
+RBL2	0.020565458327727035	0.03382861735007108	No data	No data	No data	No data	No data	No data	RB transcriptional corepressor like 2
+PPP1R10	0.02051101170152069	0.03373905678426285	No data	No data	No data	No data	No data	No data	protein phosphatase 1 regulatory subunit 10
+SLC25A39	0.020482827387429	0.03369269572770441	No data	No data	No data	No data	No data	No data	solute carrier family 25 member 39
+CERS6	0.020471529430248773	0.03367411144603187	No data	No data	No data	No data	No data	No data	ceramide synthase 6
+ANK2	0.020234546311121194	0.0332842922099303	No data	No data	No data	No data	No data	No data	ankyrin 2
+ZNF729	0.020222409887462447	0.033264328714567956	No data	No data	No data	No data	No data	No data	zinc finger protein 729
+HLA-DOB	0.020109507416026018	0.03307861272208988	No data	No data	No data	No data	No data	No data	major histocompatibility complex, class II, DO beta
+FGF11	0.019886085700533004	0.03271110096520773	No data	No data	No data	No data	No data	No data	fibroblast growth factor 11
+PMVK	0.019472180151622918	0.03051043077235375	No data	No data	No data	0.030396539880581056	No data	No data	phosphomevalonate kinase
+PLEKHM1	0.019407878942156585	0.031924487159400966	No data	No data	No data	No data	No data	No data	pleckstrin homology and RUN domain containing M1
+VPS37B	0.019404797681107432	0.03191941871894482	No data	No data	No data	No data	No data	No data	VPS37B subunit of ESCRT-I
+SEC23IP	0.019022363345028225	0.03129034327551988	No data	No data	No data	No data	No data	No data	SEC23 interacting protein
+HLA-DPB1	0.018769686171075224	0.03087470851092876	No data	No data	No data	No data	No data	No data	major histocompatibility complex, class II, DP beta 1
+FAHD2A	0.01848193934500247	0.0304013868315481	No data	No data	No data	No data	No data	No data	fumarylacetoacetate hydrolase domain containing 2A

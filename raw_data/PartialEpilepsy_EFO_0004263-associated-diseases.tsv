@@ -1,0 +1,87 @@
+symbol	overallAssociationScore	objectObject	objectObject	objectObject	objectObject	objectObject	objectObject	objectObject	targetName
+GABRA1	0.856812778833887	0.9339705476836326	No data	0.6501732154447037	No data	0.10960380777840723	No data	0.9405425752270558	gamma-aminobutyric acid type A receptor subunit alpha1
+DEPDC5	0.8241232725211091	0.8961240703975787	No data	No data	No data	0.27599266221872043	No data	No data	DEP domain containing 5, GATOR1 subcomplex subunit
+EFHC1	0.8143679495056383	0.9334424178795837	No data	No data	No data	0.8714451935646538	No data	0.6737184410550004	EF-hand domain containing 1
+GABRG2	0.8045504661512257	0.9077101234592116	No data	0.6501732154447037	No data	0.055753308311932315	No data	0.7223867710243381	gamma-aminobutyric acid type A receptor subunit gamma2
+GRIN2A	0.7884287367600583	0.9098864095935449	No data	No data	No data	0.1976251980540747	No data	No data	glutamate ionotropic receptor NMDA type subunit 2A
+RELN	0.7849818007544807	0.9057631393693328	No data	No data	No data	0.22262336213775172	No data	No data	reelin
+CLCN2	0.7733416550433655	0.9329387380942298	No data	No data	No data	0.18040143277723916	No data	No data	chloride voltage-gated channel 2
+GABRB3	0.7661719268146845	0.8466596620372396	No data	0.6431879434284122	No data	0.07588283701274881	No data	No data	gamma-aminobutyric acid type A receptor subunit beta3
+SCN1A	0.7511292523648625	0.6876310406953157	No data	0.9765667109334962	No data	0.13248138579525565	No data	0.7834485467772677	sodium voltage-gated channel alpha subunit 1
+CACNA1H	0.7505890746899981	0.819233131751982	No data	0.42555155832813474	No data	0.27436253032658914	No data	No data	calcium voltage-gated channel subunit alpha1 H
+SCN3A	0.7194457930984528	0.5323116504393184	No data	0.9765667109334962	No data	0.06353213836215436	No data	No data	sodium voltage-gated channel alpha subunit 3
+SCN9A	0.7162728492458994	0.8007968431539079	No data	0.9765667109334962	No data	0.06518369107724604	No data	No data	sodium voltage-gated channel alpha subunit 9
+CACNB4	0.7102265328398525	0.7953168184511125	No data	No data	No data	0.04999724201357574	No data	0.5131628794263335	calcium voltage-gated channel auxiliary subunit beta 4
+SCN2A	0.7086554902185485	0.7325566111220034	No data	0.9765667109334962	No data	0.2690373278729339	No data	No data	sodium voltage-gated channel alpha subunit 2
+CILK1	0.6740104777171002	0.8107839330541273	No data	No data	No data	0.4103228918479637	No data	No data	ciliogenesis associated kinase 1
+SCN8A	0.6733505903954526	0.4377101742803672	No data	0.9765667109334962	No data	0.10786549915956192	No data	0.9120608261342056	sodium voltage-gated channel alpha subunit 8
+CPA6	0.6643968383078327	0.7653972217681716	No data	No data	No data	0.4067949976137223	No data	No data	carboxypeptidase A6
+KCNT1	0.6639695205583692	0.7961412098517904	No data	No data	No data	0.18015328212665535	No data	0.5681256842896701	potassium sodium-activated channel subfamily T member 1
+GABRD	0.6574308942607736	0.7805950692856393	No data	0.6431879434284122	No data	0.08435506984644743	No data	0.43829446332473837	gamma-aminobutyric acid type A receptor subunit delta
+CHRNB2	0.6543795506637392	0.7348474568207277	No data	No data	No data	0.15727841969088982	No data	No data	cholinergic receptor nicotinic beta 2 subunit
+LGI1	0.6481901076660467	0.7750252167292143	No data	No data	No data	0.27754202271050077	No data	0.7286190369702835	leucine rich glioma inactivated 1
+NPRL2	0.6368920793200475	0.7692185602432756	No data	No data	No data	0.05177440563171756	No data	No data	NPR2 like, GATOR1 complex subunit
+KCNMA1	0.6303678262462304	0.7280341990909902	No data	No data	No data	0.05870416199270217	No data	No data	potassium calcium-activated channel subfamily M alpha 1
+NPRL3	0.5958353558100719	0.7195915563566126	No data	No data	No data	0.05278830897134206	No data	No data	NPR3 like, GATOR1 complex subunit
+CHRNA2	0.5764085853830091	0.6643782872048033	No data	No data	No data	0.19750617976141263	No data	No data	cholinergic receptor nicotinic alpha 2 subunit
+CHRNA4	0.553123324446992	0.607930797611621	No data	No data	No data	0.18851792528057684	No data	0.635900699158248	cholinergic receptor nicotinic alpha 4 subunit
+SZT2	0.5401963974514071	0.8524581789498228	No data	No data	No data	No data	No data	0.7224775213945039	SZT2 subunit of KICSTOR complex
+ENSG00000285404	0.515486639591613	0.8479363796287446	No data	No data	No data	No data	No data	No data	novel protein, DEPDC5-YWHAH readthrough
+SPTAN1	0.50701453472832	0.8340004104418283	No data	No data	No data	No data	No data	No data	spectrin alpha, non-erythrocytic 1
+CNTNAP2	0.4988482400713142	0.8159951130941984	No data	No data	No data	0.09144725457876961	No data	No data	contactin associated protein 2
+KCNQ3	0.4855678095394043	0.7789113344398895	No data	No data	No data	0.17678922727207705	No data	0.317643841752072	potassium voltage-gated channel subfamily Q member 3
+RBFOX1	0.4771765585860099	0.7789113344398895	No data	No data	No data	0.12015741875834547	No data	No data	RNA binding fox-1 homolog 1
+CHD2	0.4749101132698418	0.7789113344398895	No data	No data	No data	0.04559480982087158	No data	No data	chromodomain helicase DNA binding protein 2
+GAL	0.4664631556548527	0.7599134970145264	No data	No data	No data	0.14765948086883549	No data	No data	galanin and GMAP prepropeptide
+SLC2A1	0.4545247728925719	0.5957721816593886	No data	No data	No data	0.13245798861961203	No data	No data	solute carrier family 2 member 1
+ASAH1	0.45379273101744094	0.7447152270742359	No data	No data	No data	0.034787151196664985	No data	No data	N-acylsphingosine amidohydrolase 1
+PRICKLE1	0.45360794109009855	0.7447152270742359	No data	No data	No data	0.02870784322054877	No data	No data	prickle planar cell polarity protein 1
+STRADA	0.4527353219887597	0.7447152270742359	No data	No data	No data	No data	No data	No data	STE20 related adaptor alpha
+WWOX	0.4527353219887597	0.7447152270742359	No data	No data	No data	No data	No data	No data	WW domain containing oxidoreductase
+CASR	0.4398852357635141	0.72243794073509	No data	No data	No data	0.02279740491043579	No data	No data	calcium sensing receptor
+GABRA6	0.43383849195997143	0.279071817917486	No data	0.6431879434284122	No data	0.030396539880581056	No data	No data	gamma-aminobutyric acid type A receptor subunit alpha6
+SCARB2	0.4157773365202895	0.6839221473130737	No data	No data	No data	No data	No data	No data	scavenger receptor class B member 2
+SCN1B	0.38251272403591924	0.5957721816593886	No data	No data	No data	0.12118319488329346	No data	0.6147848823161066	sodium voltage-gated channel beta subunit 1
+CABP4	0.37429199783193173	0.607930797611621	No data	No data	No data	0.15502235339096337	No data	No data	calcium binding protein 4
+CRH	0.37414832029636275	0.607930797611621	No data	No data	No data	0.1502955806683615	No data	No data	corticotropin releasing hormone
+TBC1D24	0.3526164938305398	0.547137717850459	No data	No data	No data	0.0763680890503961	No data	0.6238514118221434	TBC1 domain family member 24
+PLCB1	0.3479544624048527	0.547137717850459	No data	No data	No data	No data	No data	0.5044190308784595	phospholipase C beta 1
+CSTB	0.3478338748588051	0.547137717850459	No data	No data	No data	0.14897315791025945	No data	0.43424159134066087	cystatin B
+CHRNA7	0.34454081952981325	0.5592963338026914	No data	No data	No data	0.14894304541484715	No data	No data	cholinergic receptor nicotinic alpha 7 subunit
+CDKL5	0.3400134663099256	0.5592963338026914	No data	No data	No data	No data	No data	No data	cyclin dependent kinase like 5
+SLC6A1	0.33621456724009635	0.547137717850459	No data	No data	No data	0.11819430889105795	No data	No data	solute carrier family 6 member 1
+GRIN1	0.3350774193673992	0.547137717850459	No data	No data	No data	0.08078387082262424	No data	No data	glutamate ionotropic receptor NMDA type subunit 1
+RBFOX3	0.33496676876274156	0.547137717850459	No data	No data	No data	0.077143633970261	No data	No data	RNA binding fox-1 homolog 3
+PRICKLE2	0.33308384403458746	0.547137717850459	No data	No data	No data	0.015198269940290528	No data	No data	prickle planar cell polarity protein 2
+PCDH19	0.33308384403458746	0.547137717850459	No data	No data	No data	0.015198269940290528	No data	No data	protocadherin 19
+EPM2A	0.3326218692162316	0.547137717850459	No data	No data	No data	No data	No data	No data	EPM2A glucan phosphatase, laforin
+ENSG00000279765	0.3326218692162316	0.547137717850459	No data	No data	No data	No data	No data	No data	novel protein
+SIK1B	0.3326218692162316	0.547137717850459	No data	No data	No data	No data	No data	No data	salt inducible kinase 1B (putative) 
+ENSG00000260272	0.3326218692162316	0.547137717850459	No data	No data	No data	No data	No data	No data	novel protein
+SNIP1	0.3326218692162316	0.547137717850459	No data	No data	No data	No data	No data	No data	Smad nuclear interacting protein 1
+IER3IP1	0.3326218692162316	0.547137717850459	No data	No data	No data	No data	No data	No data	immediate early response 3 interacting protein 1
+MECP2	0.28298652032539917	0.4377101742803672	No data	No data	No data	0.22696083110833853	No data	0.45475179172081565	methyl-CpG binding protein 2
+CACNA1G	0.27947233826718904	0	No data	0.42555155832813474	No data	0.07221954232167911	No data	0.6510867640326312	calcium voltage-gated channel subunit alpha1 G
+SNAP25	0.27804054822462093	0.4377101742803672	No data	No data	No data	0.0697431720593332	No data	0.3619113359981582	synaptosome associated protein 25
+NID1	0.25870589827929125	0.42555155832813474	No data	No data	No data	No data	No data	No data	nidogen 1
+VRK2	0.2506326091811406	0.41166367999394793	No data	No data	No data	0.012158615952232422	No data	No data	VRK serine/threonine kinase 2
+ZEB2	0.24426056758763665	0.40179008621912826	No data	No data	No data	No data	No data	No data	zinc finger E-box binding homeobox 2
+TBC1D32	0.2436254588311889	0.4007453805405496	No data	No data	No data	No data	No data	No data	TBC1 domain family member 32
+PRIMA1	0.19444041625881195	0.316648083594371	No data	No data	No data	0.06383273374922022	No data	No data	proline rich membrane anchor 1
+SLC33A1	0.19331678723086604	0.31799143585149836	No data	No data	No data	No data	No data	No data	solute carrier family 33 member 1
+FGFR3	0.18858520446675053	0.3039653988058105	No data	No data	No data	0.12485885364946678	No data	No data	fibroblast growth factor receptor 3
+OPLAH	0.11826555349910459	0.19453785523571876	No data	No data	No data	No data	No data	No data	5-oxoprolinase, ATP-hydrolysing
+FAM131A	0.11826555349910459	0.19453785523571876	No data	No data	No data	No data	No data	No data	family with sequence similarity 131 member A
+CHRNA1	0.11087395640541053	0.18237923928348632	No data	No data	No data	No data	No data	No data	cholinergic receptor nicotinic alpha 1 subunit
+STX1B	0.07614447351741505	0.12094249204335547	No data	No data	No data	0.08618770013472754	No data	No data	syntaxin 1B
+GJA1	0.06175816423636585	0.09716226625171748	No data	No data	No data	0.0885044885627004	No data	No data	gap junction protein alpha 1
+HSD3B7	0.06041104992895755	0.09937158993473363	No data	No data	No data	No data	No data	No data	hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 7
+C3orf33	0.0469709582128754	0.0772636596096304	No data	No data	No data	No data	No data	No data	chromosome 3 open reading frame 33
+ZNF646	0.03429320462480138	0.0564097176184019	No data	No data	No data	No data	No data	No data	zinc finger protein 646
+FBXL19	0.030206053652701684	0.049686664619348564	No data	No data	No data	No data	No data	No data	F-box and leucine rich repeat protein 19
+SETD1A	0.02841770791343108	0.046744971672887416	No data	No data	No data	No data	No data	No data	SET domain containing 1A, histone lysine methyltransferase
+STX4	0.026095169535845383	0.042924572399301905	No data	No data	No data	No data	No data	No data	syntaxin 4
+GMPS	0.026038200626242236	0.04283086286883074	No data	No data	No data	No data	No data	No data	guanine monophosphate synthase
+PRSS53	0.02600173215319936	0.04277087499983948	No data	No data	No data	No data	No data	No data	serine protease 53
+VKORC1	0.02258552508615656	0.03715147377775292	No data	No data	No data	No data	No data	No data	vitamin K epoxide reductase complex subunit 1
+PTK2B	0.007391597093694037	0.012158615952232422	No data	No data	No data	No data	No data	No data	protein tyrosine kinase 2 beta

@@ -1,0 +1,17 @@
+Metadata-Version: 1.1
+Name: mellon
+Version: 0.0.1
+Summary: Ligand and receptor analysis package
+Home-page: UNKNOWN
+Author: Melissa Grant-Peters
+Author-email: <melissagrantpeters@gmail.com>
+License: UNKNOWN
+Description: Package with useful functions for ligand-receptor analysis
+Keywords: python,bioinformatics
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Research
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows

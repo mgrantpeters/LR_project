@@ -1,0 +1,13 @@
+symbol	overallAssociationScore	objectObject	objectObject	objectObject	objectObject	objectObject	objectObject	objectObject	targetName
+APP	0.8356903206518492	0.9346465447175724	No data	0.12158615952232422	No data	0.37858795088371006	No data	0.521255247141721	amyloid beta precursor protein
+PRNP	0.6646951304469383	0.867601683024785	No data	No data	No data	0.10728120273361066	No data	0.33884542831877734	prion protein
+ITM2B	0.6584458686020089	0.7592462558951966	No data	No data	No data	0.2777562564063054	No data	No data	integral membrane protein 2B
+CST3	0.5768591475534162	0.6947780544132812	No data	No data	No data	0.25754923223529985	No data	No data	cystatin C
+APOE	0.3793799186192166	0.5836126508674118	No data	No data	No data	0.8087701553446851	No data	No data	apolipoprotein E
+HDAC9	0.2733510422790599	0.44964170815654453	No data	No data	No data	No data	No data	No data	histone deacetylase 9
+APOC1	0.21707373958244613	0.35706981853076725	No data	No data	No data	No data	No data	No data	apolipoprotein C1
+NECTIN2	0.10532710716275794	0.17325509346879078	No data	No data	No data	No data	No data	No data	nectin cell adhesion molecule 2
+MKLN1	0.07003092866098913	0.11519555998169492	No data	No data	No data	No data	No data	No data	muskelin 1
+TWIST1	0.06437147631660634	0.10436636362092692	No data	No data	No data	0.030396539880581056	No data	No data	twist family bHLH transcription factor 1
+FERD3L	0.04980061873961246	0.08191823631121214	No data	No data	No data	No data	No data	No data	Fer3 like bHLH transcription factor
+TOMM40	0.04525727867075299	0.07444478688784209	No data	No data	No data	No data	No data	No data	translocase of outer mitochondrial membrane 40
