@@ -5,6 +5,7 @@ mellon.egg-info/SOURCES.txt
 mellon.egg-info/dependency_links.txt
 mellon.egg-info/top_level.txt
 mellon/lr/__init__.py
+mellon/lr/bootstrap_genes.py
 mellon/lr/find_hits.py
 mellon/lr/topocurring.py
 mellon/lr/type_of_molecule.py
