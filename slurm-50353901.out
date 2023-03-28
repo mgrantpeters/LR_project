@@ -1,0 +1,3 @@
+Start running R
+Error in library("EWCE") : there is no package called ‘EWCE’
+Execution halted
