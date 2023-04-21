@@ -7,11 +7,11 @@ set.seed(1234)
 setwd("/Users/melis/Documents/GitHub/LR_project")
 
 load("C:/Users/melis/Downloads/ctd_aibsMultipleCrtxSmrtSeq.rda")  #Load CTD data
-n = 50000
+n = 80000
 
 
 #################------------------- 0.7 threshold
-data = read.csv("processed_data/03-LR_network_visualisation/03c-specificity_major_network/louvain_largest_cluster_0.7.csv", row.names = 1)
+data = read.csv("processed_data/03-LR_network_visualisation/louvain_largest_cluster_0.7.csv", row.names = 1)
 list = data$X0
 #Load target gene list
 
@@ -32,7 +32,7 @@ plot_list = EWCE::ewce_plot(total_res = full_results$results,                   
                             mtc_method = "BH",
                             ctd = ctd)
 
-plot_list$withDendro+ theme(text = element_text(size = 12))+theme(plot.margin=grid::unit(c(0.5,0.5,0.5,0.5), "in"))   
+plot_list$withDendro+theme(text = element_text(size = 12))+theme(plot.margin=grid::unit(c(0.5,0.5,0.5,0.5), "in"))   
 
 ggsave(
   filename="plots/03-LR_network_visualisation/03c-specificity_major_network/annotation1_thr07.png",
@@ -45,7 +45,7 @@ ggsave(
   dpi = 300
 )
 
-write.csv(data.frame(full_results$results), "processed_data/03-LR_network_visualisation/03c-specificity_major_network/annotation1_thr07.csv", row.names=TRUE, quote=FALSE) 
+write.csv(data.frame(full_results$results), "processed_data/03-LR_network_visualisation/annotation1_thr07.csv", row.names=TRUE, quote=FALSE) 
 
 rm(full_results)
 rm(plot_list)
@@ -86,7 +86,7 @@ rm(plot_list)
 
 #################------------------- Threshold 0.4
 #Load target gene list
-data = read.csv("processed_data/03-LR_network_visualisation/03c-specificity_major_network/louvain_largest_cluster_0.4.csv", row.names = 1)
+data = read.csv("processed_data/03-LR_network_visualisation/louvain_largest_cluster_0.4.csv", row.names = 1)
 list = data$X0
 full_results <- EWCE::bootstrap_enrichment_test(sct_data = ctd,
                                                 sctSpecies = "human",
@@ -159,7 +159,8 @@ rm(plot_list)
 #################------------------- Threshold 0.1
 #Load target gene list
 
-list = data[data$Splicing.regulation>0,1]
+data = read.csv("processed_data/03-LR_network_visualisation/louvain_largest_cluster_0.1.csv", row.names = 1)
+list = data$X0
 
 full_results <- EWCE::bootstrap_enrichment_test(sct_data = ctd,
                                                 sctSpecies = "human",
