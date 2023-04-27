@@ -175,8 +175,5 @@ ggsave(
   dpi = 300
 )
   
-sig = FinalResult[FinalResult$p<0.05,]
-  
-write.csv(FinalResult, "processed_data/03-LR_network_visualisation/03c-specificity_major_network/annotation1_multiple_thr.csv")
 
   

@@ -166,7 +166,7 @@ full_results <- EWCE::bootstrap_enrichment_test(sct_data = ctd,
                                                 sctSpecies = "human",
                                                 genelistSpecies = "human",
                                                 hits = list, 
-                                                reps = n,                       #Bootstrap repeats set to 10000
+                                                reps = 50000,                       #Bootstrap repeats set to 10000
                                                 annotLevel = 1,                 #Annotation level where 1= major cell types, 2= higher resolution
                                                 geneSizeControl = TRUE)         #Control for GC content and gene length
 
@@ -224,11 +224,11 @@ ggsave(
   height = 7,
   units = c("in"),
   dpi = 300
-)
+#)
 
-write.csv(data.frame(full_results$results), "processed_data/03-LR_network_visualisation/03c-specificity_major_network/annotation2_thr01.csv", row.names=TRUE, quote=FALSE) 
-rm(full_results)
-rm(plot_list)
+#write.csv(data.frame(full_results$results), "processed_data/03-LR_network_visualisation/03c-specificity_major_network/annotation2_thr01.csv", row.names=TRUE, quote=FALSE) 
+#rm(full_results)
+#rm(plot_list)
 
 ############-------------------------------- FINAL SAVE and PLOT
 
