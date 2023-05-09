@@ -1,0 +1,17 @@
+Disease,perc LR,pval,LR
+AD,45.45454545,0.0001,target
+ALS,6.666666667,0.3425,target
+BipolarDisorder,21.05263158,0.0084,target
+MigraineDisorder,18.18181818,0.045,target
+PartialEpilepsy,17.64705882,0.0061,target
+PD,10.71428571,0.1028,target
+Schizophrenia,12.06896552,0.023,target
+UnipolarDepression,24,0.0015,target
+AD,18.18181818,0.017,source
+ALS,3.333333333,0.5095,source
+BipolarDisorder,0,0.3672,source
+MigraineDisorder,0,0.2304,source
+PartialEpilepsy,8.823529412,0.0413,source
+PD,7.142857143,0.1416,source
+Schizophrenia,1.724137931,0.7389,source
+UnipolarDepression,4,0.4329,source
