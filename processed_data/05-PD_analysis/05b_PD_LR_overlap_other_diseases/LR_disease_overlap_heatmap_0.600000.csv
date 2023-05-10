@@ -1,0 +1,10 @@
+,AD,ALS,BipolarDisorder,MigraineDisorder,MS,PartialEpilepsy,PD,Schizophrenia,UnipolarDepression
+AD,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+ALS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BipolarDisorder,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+MigraineDisorder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+MS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+PartialEpilepsy,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+PD,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Schizophrenia,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+UnipolarDepression,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

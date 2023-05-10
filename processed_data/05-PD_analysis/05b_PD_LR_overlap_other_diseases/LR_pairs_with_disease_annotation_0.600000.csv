@@ -1,0 +1,7 @@
+,genesymbol_intercell_source,genesymbol_intercell_target,source_disease,target_disease
+1033,APOE,APP,AD,AD
+1034,CNTN4,APP,"BipolarDisorder,Schizophrenia",AD
+1921,RELN,ITGB5,PartialEpilepsy,MigraineDisorder
+7102,FSTL5,CD86,BipolarDisorder,MS
+9413,APOE,CHRNA4,AD,PartialEpilepsy
+9659,LGI1,RTN4R,PartialEpilepsy,Schizophrenia
