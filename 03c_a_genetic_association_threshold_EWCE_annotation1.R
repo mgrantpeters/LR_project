@@ -83,7 +83,16 @@ ggsave(
   units = c("in"),
   dpi = 300
 )
-
+ggsave(
+  filename="plots/03-LR_network_visualisation/03c-specificity_major_network/annotation1_thr04.pdf",
+  plot = last_plot(),
+  device ="pdf",
+  scale = 1,
+  width = 7,
+  height = 7,
+  units = c("in"),
+  dpi = 300
+)
 write.csv(data.frame(full_results$results), "processed_data/03-LR_network_visualisation/03c-specificity_major_network/annotation1_thr04.csv", row.names=TRUE, quote=FALSE) 
 
 rm(full_results)
@@ -123,7 +132,16 @@ ggsave(
   units = c("in"),
   dpi = 300
 )
-
+ggsave(
+  filename="plots/03-LR_network_visualisation/03c-specificity_major_network/annotation1_thr07.pdf",
+  plot = last_plot(),
+  device ="pdf",
+  scale = 1,
+  width = 7,
+  height = 7,
+  units = c("in"),
+  dpi = 300
+)
 write.csv(data.frame(full_results$results), "processed_data/03-LR_network_visualisation/annotation1_thr07.csv", row.names=TRUE, quote=FALSE) 
 
 rm(full_results)
@@ -174,6 +192,15 @@ ggsave(
   units = c("in"),
   dpi = 300
 )
-  
+ggsave(
+  filename="plots/03-LR_network_visualisation/03c-specificity_major_network/annotation1_multiple_thr.pdf",
+  plot = last_plot(),
+  device ="pdf",
+  scale = 1,
+  width = 8,
+  height = 7,
+  units = c("in"),
+  dpi = 300
+)
 
   

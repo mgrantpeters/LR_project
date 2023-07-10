@@ -34,9 +34,9 @@ data %>%
         ## This is to plot the two legends in two rows
         #legend.box="vertical") 
 ggsave(
-  filename="plots/LR_occurance_per_disease_01.png",
+  filename="plots/LR_occurance_per_disease_01.pdf",
   plot = last_plot(),
-  device ="png",
+  device ="pdf",
   scale = 1,
   width = 7,
   height = 8,
@@ -75,9 +75,9 @@ data %>%
 ## This is to plot the two legends in two rows
 #legend.box="vertical") 
 ggsave(
-  filename="plots/LR_occurance_per_disease_04.png",
+  filename="plots/LR_occurance_per_disease_04.pdf",
   plot = last_plot(),
-  device ="png",
+  device ="pdf",
   scale = 1,
   width = 7,
   height = 6,
@@ -116,9 +116,9 @@ data %>%
 ## This is to plot the two legends in two rows
 #legend.box="vertical") 
 ggsave(
-  filename="plots/LR_occurance_per_disease_07.png",
+  filename="plots/LR_occurance_per_disease_07.pdf",
   plot = last_plot(),
-  device ="png",
+  device ="pdf",
   scale = 1,
   width = 7,
   height = 4,

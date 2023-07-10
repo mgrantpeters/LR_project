@@ -1,0 +1,19 @@
+Disease,Median transcript variants,pval
+AD,8.5,0.0558
+ALS,8.0,0.2053
+AnorexiaNervosa,16.0,0.002
+BipolarDisorder,8.0,0.0954
+BrainAneurysm,9.0,0.2423
+EssentialTremor,7.5,0.4682
+FrontotemporalDementia,10.0,0.0646
+MajorDepressiveDisorder,9.0,0.0817
+MigraineDisorder,10.0,0.0591
+MS,8.0,0.0801
+NeuroticDisorder,14.0,0.0434
+OCD,13.0,0.0211
+PartialEpilepsy,16.0,0.0
+PD,18.0,0.0
+RestlessLeg,17.0,0.1291
+Schizophrenia,12.0,0.0
+TouretteSyndrome,10.0,0.063
+UnipolarDepression,11.0,0.003
