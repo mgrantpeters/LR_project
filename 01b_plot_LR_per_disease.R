@@ -6,11 +6,12 @@ library("dplyr")
 set.seed(1234)
 setwd("/Users/melis/Documents/GitHub/LR_project/")
 data = read.csv("processed_data/LR_occurance.csv")
+data$padj = p.adjust(data$pval, method="BH")
 
 data %>% 
   mutate(Disease = factor(Disease,rev(c("AD","ALS","EssentialTremor","FrontotemporalDementia","LBD","PD","ProgressiveSupranuclearPalsy","AnorexiaNervosa","BipolarDisorder","MajorDepressiveDisorder","NeuroticDisorder","OCD","Schizophrenia","TouretteSyndrome","UnipolarDepression","BrainAneurysm","IntracranialHemorrhage","MigraineDisorder","MigraineWithAura","MS","NarcolepsyCataplexy","Narcolepsy","PartialEpilepsy","RestlessLeg")))) %>%
   ggplot() +
-  geom_point(aes(x = -log10(pval), y = Disease,color = Disease, size = perc.LR, alpha = pval<0.05), show.legend = FALSE)+
+  geom_point(aes(x = -log10(padj), y = Disease,color = Disease, size = perc.LR, alpha = padj<0.05), show.legend = FALSE)+
   scale_alpha_discrete(range=c(0.4,1))+
   facet_grid(cols = vars(LR))+
   theme(text = element_text(size = 12))+ theme(plot.margin=grid::unit(c(0.5,0.5,0.5,0.5), "in"))+
@@ -26,17 +27,17 @@ data %>%
         axis.text.x = element_text(colour = "black", size = "10", angle=90, hjust=1),
         axis.title = element_text(colour = "black", size = "10"),
         strip.text = element_text(colour = "black", size = "10"), 
-        #legend.text = element_text(colour = "black", size = "10"),
+        legend.text = element_text(colour = "black", size = "10"),
         plot.caption = element_text(colour = "black", size = "10"),
-        plot.title = element_text(colour = "black", size = "10"))
-        #legend.title = element_text(colour = "black", size = "10"),
-        #legend.position = "top",
+        plot.title = element_text(colour = "black", size = "10"),
+        legend.title = element_text(colour = "black", size = "10"),
+        legend.position = "top",
         ## This is to plot the two legends in two rows
-        #legend.box="vertical") 
+        legend.box="vertical") 
 ggsave(
-  filename="plots/LR_occurance_per_disease_01.pdf",
+  filename="plots/LR_occurance_per_disease_01.png",
   plot = last_plot(),
-  device ="pdf",
+  device ="png",
   scale = 1,
   width = 7,
   height = 8,
@@ -47,11 +48,11 @@ ggsave(
 #####################################
 
 data = read.csv("processed_data/LR_occurance_0.4.csv")
-
+data$padj = p.adjust(data$pval, method="BH")
 data %>% 
   mutate(Disease = factor(Disease,rev(c("AD","ALS","EssentialTremor","FrontotemporalDementia","LBD","PD","ProgressiveSupranuclearPalsy","AnorexiaNervosa","BipolarDisorder","MajorDepressiveDisorder","NeuroticDisorder","OCD","Schizophrenia","TouretteSyndrome","UnipolarDepression","BrainAneurysm","IntracranialHemorrhage","MigraineDisorder","MigraineWithAura","MS","NarcolepsyCataplexy","Narcolepsy","PartialEpilepsy","RestlessLeg")))) %>%
   ggplot() +
-  geom_point(aes(x = -log10(pval), y = Disease,color = Disease, size = perc.LR, alpha = pval<0.05), show.legend = FALSE)+
+  geom_point(aes(x = -log10(padj), y = Disease,color = Disease, size = perc.LR, alpha = padj<0.05), show.legend = FALSE)+
   scale_alpha_discrete(range=c(0.4,1))+
   facet_grid(cols = vars(LR))+
   theme(text = element_text(size = 12))+ theme(plot.margin=grid::unit(c(0.5,0.5,0.5,0.5), "in"))+
@@ -75,9 +76,9 @@ data %>%
 ## This is to plot the two legends in two rows
 #legend.box="vertical") 
 ggsave(
-  filename="plots/LR_occurance_per_disease_04.pdf",
+  filename="plots/LR_occurance_per_disease_04.png",
   plot = last_plot(),
-  device ="pdf",
+  device ="png",
   scale = 1,
   width = 7,
   height = 6,
@@ -88,11 +89,11 @@ ggsave(
 ####################################################
 
 data = read.csv("processed_data/LR_occurance_0.7.csv")
-
+data$padj = p.adjust(data$pval, method="BH")
 data %>% 
   mutate(Disease = factor(Disease,rev(c("AD","ALS","PD","BipolarDisorder","Schizophrenia","UnipolarDepression","MigraineDisorder","PartialEpilepsy")))) %>%
   ggplot() +
-  geom_point(aes(x = -log10(pval), y = Disease,color = Disease, size = perc.LR, alpha = pval<0.05), show.legend = FALSE)+
+  geom_point(aes(x = -log10(padj), y = Disease,color = Disease, size = perc.LR, alpha = padj<0.05), show.legend = FALSE)+
   scale_alpha_discrete(range=c(0.4,1))+
   facet_grid(cols = vars(LR))+
   theme(text = element_text(size = 12))+ theme(plot.margin=grid::unit(c(0.5,0.5,0.5,0.5), "in"))+
@@ -116,9 +117,9 @@ data %>%
 ## This is to plot the two legends in two rows
 #legend.box="vertical") 
 ggsave(
-  filename="plots/LR_occurance_per_disease_07.pdf",
+  filename="plots/LR_occurance_per_disease_07.png",
   plot = last_plot(),
-  device ="pdf",
+  device ="png",
   scale = 1,
   width = 7,
   height = 4,

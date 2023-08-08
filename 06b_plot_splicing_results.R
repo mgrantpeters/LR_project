@@ -5,11 +5,11 @@ library("dplyr")
 set.seed(1234)
 setwd("/Users/melis/Documents/GitHub/LR_project/")
 data = read.csv("processed_data/06a_splicing_disease_LRs/significance_splicing_disease.csv")
-
+data$padj = p.adjust(data$pval, method="BH")
 data %>% 
   mutate(Disease = factor(Disease,rev(c("AD","ALS","EssentialTremor","FrontotemporalDementia","LBD","PD","ProgressiveSupranuclearPalsy","AnorexiaNervosa","BipolarDisorder","MajorDepressiveDisorder","NeuroticDisorder","OCD","Schizophrenia","TouretteSyndrome","UnipolarDepression","BrainAneurysm","IntracranialHemorrhage","MigraineDisorder","MigraineWithAura","MS","NarcolepsyCataplexy","Narcolepsy","PartialEpilepsy","RestlessLeg")))) %>%
   ggplot() +
-  geom_point(aes(x = -log10(pval), y = Disease,color = Disease, size = Median.transcript.variants, alpha = pval<0.05), show.legend = TRUE)+
+  geom_point(aes(x = -log10(padj), y = Disease,color = Disease, size = Median.transcript.variants, alpha = padj<0.05), show.legend = TRUE)+
   scale_alpha_discrete(range=c(0.4,1))+
   facet_grid(cols = vars(Threshold))+
   theme(text = element_text(size = 12))+ theme(plot.margin=grid::unit(c(0.5,0.5,0.5,0.5), "in"))+
