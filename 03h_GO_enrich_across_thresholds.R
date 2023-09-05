@@ -38,7 +38,7 @@ ggsave(
 
 #########################################################
 
-gene = read.csv("processed_data/03-LR_network_visualisation/louvain_largest_cluster_0.1.csv", row.names = 1)
+gene = read.csv("processed_data/03-LR_network_visualisation/louvain_largest_cluster_0.4.csv", row.names = 1)
 genelist = gene$X0
 
 gene.df <- bitr(genelist, fromType = "SYMBOL",
@@ -62,7 +62,7 @@ ggplot(ordered_results, aes(x=enrich_go.Count, y=reorder(enrich_go.Description, 
   theme(text = element_text(size = 25))    
 
 ggsave(
-  filename="plots/03-LR_network_visualisation/03h_GO_enrich_across_thresholds/annotation1_thr07.png",
+  filename="plots/03-LR_network_visualisation/03h_GO_enrich_across_thresholds/annotation1_thr04.png",
   plot = last_plot(),
   device ="png",
   scale = 1,

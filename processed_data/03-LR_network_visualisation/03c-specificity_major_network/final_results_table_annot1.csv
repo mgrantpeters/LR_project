@@ -1,52 +1,52 @@
-"","CellType","annotLevel","p","fold_change","sd_from_mean","q","MajorCellType","testList"
-"Vascular_cells","Vascular_cells",1,0,1.8889890387372,14.8352363840216,0,"Vascular","01_threshold"
-"Microglia","Microglia",1,0,1.79048675486442,13.8107913645428,0,"Microglia","01_threshold"
-"GABAergic_VIP","GABAergic_VIP",1,0,1.28786848913574,7.76912423957699,0,"GABAergic","01_threshold"
-"Astrocyte","Astrocyte",1,0,1.27243913847399,5.64073285820091,0,"Astrocyte","01_threshold"
-"OPC","OPC",1,0,1.25867825515534,5.61398493732004,0,"OPC","01_threshold"
-"GABAergic_SST","GABAergic_SST",1,0,1.1878343033967,5.51543529575313,0,"GABAergic","01_threshold"
-"Glutamatergic_L6b","Glutamatergic_L6b",1,0,1.18509876558398,4.97009232336441,0,"Glutamatergic","01_threshold"
-"GABAergic_LAMP5","GABAergic_LAMP5",1,0,1.15866739573158,4.63139346480367,0,"GABAergic","01_threshold"
-"Glutamatergic_L6_CT","Glutamatergic_L6_CT",1,2.66666666666667e-05,1.14502048465879,4.50664129797893,5.03703703703704e-05,"Glutamatergic","01_threshold"
-"Glutamatergic_L4_IT","Glutamatergic_L4_IT",1,5.33333333333333e-05,1.15064752244681,4.35342769890716,9.06666666666667e-05,"Glutamatergic","01_threshold"
-"Glutamatergic_L5_6_NP","Glutamatergic_L5_6_NP",1,0.000146666666666667,1.15546823846364,3.95116517394768,0.000226666666666667,"Glutamatergic","01_threshold"
-"GABAergic_PAX6","GABAergic_PAX6",1,0.00306666666666667,1.10723160539145,2.88425670556014,0.00434444444444445,"GABAergic","01_threshold"
-"Glutamatergic_L5_6_IT_Car3","Glutamatergic_L5_6_IT_Car3",1,0.0126133333333333,1.08890429625122,2.34235527140053,0.016494358974359,"Glutamatergic","01_threshold"
-"Glutamatergic_IT","Glutamatergic_IT",1,0.0352133333333333,1.05941718898691,1.85946394467401,0.0427590476190476,"Glutamatergic","01_threshold"
-"GABAergic_PVALB","GABAergic_PVALB",1,0.0984133333333333,1.04508281692464,1.30399791226567,0.111535111111111,"GABAergic","01_threshold"
-"Glutamatergic_L5_ET","Glutamatergic_L5_ET",1,0.154786666666667,1.04391502927056,1.01607781288294,0.164460833333333,"Glutamatergic","01_threshold"
-"Oligodendrocyte","Oligodendrocyte",1,0.20088,1.04339092877993,0.832437451982042,0.20088,"Oligodendrocyte","01_threshold"
-"Vascular_cells1","Vascular_cells",1,0,1.94178067035663,13.2651156983643,0,"Vascular","04_threshold"
-"Microglia1","Microglia",1,0,1.73090551311226,10.6914730066094,0,"Microglia","04_threshold"
-"OPC1","OPC",1,0,1.34766251013657,6.38129435639674,0,"OPC","04_threshold"
-"GABAergic_VIP1","GABAergic_VIP",1,0,1.26160138471584,5.98911450093219,0,"GABAergic","04_threshold"
-"Astrocyte1","Astrocyte",1,0,1.31359689625626,5.44897341047974,0,"Astrocyte","04_threshold"
-"GABAergic_SST1","GABAergic_SST",1,0,1.18018158305155,4.47044839892928,0,"GABAergic","04_threshold"
-"Glutamatergic_L6_CT1","Glutamatergic_L6_CT",1,8e-05,1.14893373275342,3.89511334022178,0.000194285714285714,"Glutamatergic","04_threshold"
-"Glutamatergic_L6b1","Glutamatergic_L6b",1,0.00056,1.15743000343019,3.57494172525231,0.00119,"Glutamatergic","04_threshold"
-"GABAergic_LAMP51","GABAergic_LAMP5",1,0.000693333333333333,1.14229572730966,3.50445396633661,0.00130962962962963,"GABAergic","04_threshold"
-"Glutamatergic_L5_6_NP1","Glutamatergic_L5_6_NP",1,0.00289333333333333,1.1382977439964,2.98489595762932,0.00491866666666667,"Glutamatergic","04_threshold"
-"GABAergic_PAX61","GABAergic_PAX6",1,0.00402666666666667,1.12563381615182,2.85005145347771,0.0062230303030303,"GABAergic","04_threshold"
-"Glutamatergic_L4_IT1","Glutamatergic_L4_IT",1,0.00733333333333333,1.10694312334313,2.58720270837881,0.0103888888888889,"Glutamatergic","04_threshold"
-"GABAergic_PVALB1","GABAergic_PVALB",1,0.1282,1.04643364165337,1.13793394679721,0.167646153846154,"GABAergic","04_threshold"
-"Glutamatergic_L5_6_IT_Car31","Glutamatergic_L5_6_IT_Car3",1,0.24216,1.03055285388391,0.678518316219601,0.294051428571429,"Glutamatergic","04_threshold"
-"Glutamatergic_L5_ET1","Glutamatergic_L5_ET",1,0.319946666666667,1.0224047513974,0.435509045695019,0.362606222222222,"Glutamatergic","04_threshold"
-"Glutamatergic_IT1","Glutamatergic_IT",1,0.342746666666667,1.01452856736437,0.377736561509525,0.364168333333333,"Glutamatergic","04_threshold"
-"Oligodendrocyte1","Oligodendrocyte",1,0.547493333333333,0.990763576801837,-0.149279928956053,0.547493333333333,"Oligodendrocyte","04_threshold"
-"Vascular_cells2","Vascular_cells",1,0,1.96409157175643,5.26021950150685,0,"Vascular","07_threshold"
-"OPC2","OPC",1,5.33333333333333e-05,1.70837746037739,5.12681233976476,0.000453333333333333,"OPC","07_threshold"
-"Astrocyte2","Astrocyte",1,0.00028,1.60828414301148,4.08534697380879,0.00158666666666667,"Astrocyte","07_threshold"
-"Microglia2","Microglia",1,0.0022,1.57387139565338,3.25116877341596,0.00935,"Microglia","07_threshold"
-"Oligodendrocyte2","Oligodendrocyte",1,0.00288,1.51672208004551,3.2630073985271,0.009792,"Oligodendrocyte","07_threshold"
-"Glutamatergic_L5_6_IT_Car32","Glutamatergic_L5_6_IT_Car3",1,0.0167466666666667,1.2843759448695,2.4217882336385,0.0474488888888889,"Glutamatergic","07_threshold"
-"GABAergic_VIP2","GABAergic_VIP",1,0.021,1.264415455458,2.32045353946758,0.051,"GABAergic","07_threshold"
-"GABAergic_LAMP52","GABAergic_LAMP5",1,0.0603866666666667,1.17497356600346,1.64602352081127,0.128321666666667,"GABAergic","07_threshold"
-"Glutamatergic_L5_6_NP2","Glutamatergic_L5_6_NP",1,0.107946666666667,1.1508183511559,1.26682311995772,0.194593333333333,"Glutamatergic","07_threshold"
-"GABAergic_PAX62","GABAergic_PAX6",1,0.114466666666667,1.13710716542015,1.21605489161454,0.194593333333333,"GABAergic","07_threshold"
-"GABAergic_SST2","GABAergic_SST",1,0.3264,1.03800400596365,0.37405245051511,0.504436363636364,"GABAergic","07_threshold"
-"Glutamatergic_L6b2","Glutamatergic_L6b",1,0.461493333333333,1.00062783019253,0.00539669990849139,0.653782222222222,"Glutamatergic","07_threshold"
-"Glutamatergic_L6_CT2","Glutamatergic_L6_CT",1,0.696546666666667,0.947296656646587,-0.542971461070594,0.876548333333333,"Glutamatergic","07_threshold"
-"Glutamatergic_L4_IT2","Glutamatergic_L4_IT",1,0.761986666666667,0.920524431615755,-0.73132557346939,0.876548333333333,"Glutamatergic","07_threshold"
-"GABAergic_PVALB2","GABAergic_PVALB",1,0.799653333333333,0.910834989389084,-0.83410111319209,0.876548333333333,"GABAergic","07_threshold"
-"Glutamatergic_L5_ET2","Glutamatergic_L5_ET",1,0.824986666666667,0.874233399820876,-0.920639071346132,0.876548333333333,"Glutamatergic","07_threshold"
-"Glutamatergic_IT2","Glutamatergic_IT",1,0.954946666666667,0.849735307803738,-1.53663032786254,0.954946666666667,"Glutamatergic","07_threshold"
+,CellType,annotLevel,p,fold_change,sd_from_mean,q,MajorCellType,testList
+Vascular_cells1,Vascular_cells,1,0,1.941073941,13.26271536,0,Vascular,0.4 threshold
+Microglia1,Microglia,1,0,1.730862459,10.72042608,0,Microglia,0.4 threshold
+OPC1,OPC,1,0,1.347696126,6.397281386,0,OPC,0.4 threshold
+GABAergic_VIP1,GABAergic_VIP,1,0,1.261862304,5.977626384,0,GABAergic,0.4 threshold
+Astrocyte1,Astrocyte,1,0,1.312772082,5.437715466,0,Astrocyte,0.4 threshold
+GABAergic_SST1,GABAergic_SST,1,1.25E-05,1.180352834,4.460846587,3.54E-05,GABAergic,0.4 threshold
+Glutamatergic_L6_CT1,Glutamatergic_L6_CT,1,0.0001625,1.148938523,3.914466553,0.000394643,Glutamatergic,0.4 threshold
+Glutamatergic_L6b1,Glutamatergic_L6b,1,0.000525,1.157775169,3.569592524,0.001115625,Glutamatergic,0.4 threshold
+GABAergic_LAMP51,GABAergic_LAMP5,1,0.00065,1.142545664,3.513321138,0.001227778,GABAergic,0.4 threshold
+Glutamatergic_L5_6_NP1,Glutamatergic_L5_6_NP,1,0.0026125,1.138512214,2.996204297,0.00444125,Glutamatergic,0.4 threshold
+GABAergic_PAX61,GABAergic_PAX6,1,0.0038875,1.125903206,2.831112316,0.006007955,GABAergic,0.4 threshold
+Glutamatergic_L4_IT1,Glutamatergic_L4_IT,1,0.0074125,1.107352977,2.593416955,0.010501042,Glutamatergic,0.4 threshold
+GABAergic_PVALB1,GABAergic_PVALB,1,0.1282125,1.046621326,1.138364471,0.1676625,GABAergic,0.4 threshold
+Glutamatergic_L5_6_IT_Car31,Glutamatergic_L5_6_IT_Car3,1,0.240375,1.030946533,0.688557626,0.291883929,Glutamatergic,0.4 threshold
+Glutamatergic_L5_ET1,Glutamatergic_L5_ET,1,0.31815,1.022728323,0.444836699,0.357478125,Glutamatergic,0.4 threshold
+Glutamatergic_IT1,Glutamatergic_IT,1,0.33645,1.014781349,0.387984055,0.357478125,Glutamatergic,0.4 threshold
+Oligodendrocyte1,Oligodendrocyte,1,0.547725,0.990806857,-0.148830577,0.547725,Oligodendrocyte,0.4 threshold
+Vascular_cells2,Vascular_cells,1,0,2.105475521,12.49352891,0,Vascular,0.55 threshold
+Microglia2,Microglia,1,0,1.876491858,10.28997874,0,Microglia,0.55 threshold
+OPC2,OPC,1,6.00E-05,1.321986444,4.720429561,0.00034,OPC,0.55 threshold
+Astrocyte2,Astrocyte,1,0.00014,1.287705807,4.002625049,0.000595,Astrocyte,0.55 threshold
+GABAergic_VIP2,GABAergic_VIP,1,0.00084,1.187375447,3.461214577,0.002856,GABAergic,0.55 threshold
+GABAergic_LAMP52,GABAergic_LAMP5,1,0.00216,1.156927014,3.122552119,0.00612,GABAergic,0.55 threshold
+GABAergic_PAX62,GABAergic_PAX6,1,0.00762,1.143247749,2.613558563,0.018505714,GABAergic,0.55 threshold
+Glutamatergic_L5_6_IT_Car32,Glutamatergic_L5_6_IT_Car3,1,0.01628,1.126644526,2.271450173,0.034595,Glutamatergic,0.55 threshold
+Glutamatergic_L4_IT2,Glutamatergic_L4_IT,1,0.02822,1.103306629,2.01193035,0.053304444,Glutamatergic,0.55 threshold
+Glutamatergic_L5_6_NP2,Glutamatergic_L5_6_NP,1,0.04058,1.105115529,1.832658876,0.068986,Glutamatergic,0.55 threshold
+Glutamatergic_L6b2,Glutamatergic_L6b,1,0.0546,1.089742692,1.656747253,0.084381818,Glutamatergic,0.55 threshold
+GABAergic_SST2,GABAergic_SST,1,0.08216,1.070640589,1.42596629,0.116393333,GABAergic,0.55 threshold
+Glutamatergic_L6_CT2,Glutamatergic_L6_CT,1,0.37898,1.013198764,0.278334316,0.495589231,Glutamatergic,0.55 threshold
+Glutamatergic_IT2,Glutamatergic_IT,1,0.43828,1.005647568,0.121447246,0.531216,Glutamatergic,0.55 threshold
+Glutamatergic_L5_ET2,Glutamatergic_L5_ET,1,0.46872,1.001359332,0.021413881,0.531216,Glutamatergic,0.55 threshold
+Oligodendrocyte2,Oligodendrocyte,1,0.5186,0.993057001,-0.090017781,0.5510125,Oligodendrocyte,0.55 threshold
+GABAergic_PVALB2,GABAergic_PVALB,1,0.58298,0.987758623,-0.240945894,0.58298,GABAergic,0.55 threshold
+Vascular_cells,Vascular_cells,1,0,1.965259938,5.259359309,0,Vascular,0.7 threshold
+OPC,OPC,1,1.25E-05,1.708710795,5.151944931,0.00010625,OPC,0.7 threshold
+Astrocyte,Astrocyte,1,0.0002375,1.608205383,4.080817348,0.001345833,Astrocyte,0.7 threshold
+Microglia,Microglia,1,0.002575,1.570574159,3.233084929,0.0096475,Microglia,0.7 threshold
+Oligodendrocyte,Oligodendrocyte,1,0.0028375,1.517741061,3.25827043,0.0096475,Oligodendrocyte,0.7 threshold
+Glutamatergic_L5_6_IT_Car3,Glutamatergic_L5_6_IT_Car3,1,0.016925,1.283890651,2.415461506,0.047954167,Glutamatergic,0.7 threshold
+GABAergic_VIP,GABAergic_VIP,1,0.02055,1.265132052,2.322760133,0.049907143,GABAergic,0.7 threshold
+GABAergic_LAMP5,GABAergic_LAMP5,1,0.0573625,1.176122117,1.673471958,0.121895313,GABAergic,0.7 threshold
+Glutamatergic_L5_6_NP,Glutamatergic_L5_6_NP,1,0.1063625,1.151527112,1.270671551,0.19669,Glutamatergic,0.7 threshold
+GABAergic_PAX6,GABAergic_PAX6,1,0.1157,1.136691012,1.208464498,0.19669,GABAergic,0.7 threshold
+GABAergic_SST,GABAergic_SST,1,0.3242,1.038721131,0.38104757,0.501036364,GABAergic,0.7 threshold
+Glutamatergic_L6b,Glutamatergic_L6b,1,0.461275,1.000627434,0.005413818,0.653472917,Glutamatergic,0.7 threshold
+Glutamatergic_L6_CT,Glutamatergic_L6_CT,1,0.6971625,0.947641852,-0.543694093,0.875752344,Glutamatergic,0.7 threshold
+Glutamatergic_L4_IT,Glutamatergic_L4_IT,1,0.76355,0.920266295,-0.735096202,0.875752344,Glutamatergic,0.7 threshold
+GABAergic_PVALB,GABAergic_PVALB,1,0.797925,0.911859289,-0.829438343,0.875752344,GABAergic,0.7 threshold
+Glutamatergic_L5_ET,Glutamatergic_L5_ET,1,0.8242375,0.87468106,-0.920261088,0.875752344,Glutamatergic,0.7 threshold
+Glutamatergic_IT,Glutamatergic_IT,1,0.9553,0.849984093,-1.545654094,0.9553,Glutamatergic,0.7 threshold
