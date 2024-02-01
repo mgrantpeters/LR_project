@@ -1,0 +1,13 @@
+Disease,% LR,pval,LR
+Asthma,20.33195020746888,0.0,target
+cardiovascular,12.744436952124072,0.0,target
+coronaryheart,12.875536480686694,0.002,target
+DiabetesMellitus,12.040557667934094,0.0,target
+LymphoidLeukemia,12.903225806451612,0.034,target
+ReumatoidArthritis,20.276497695852534,0.0,target
+Asthma,10.37344398340249,0.0,source
+cardiovascular,6.473364801078894,0.0,source
+coronaryheart,8.15450643776824,0.008,source
+DiabetesMellitus,6.4638783269961975,0.005,source
+LymphoidLeukemia,4.838709677419355,0.324,source
+ReumatoidArthritis,9.67741935483871,0.0,source
