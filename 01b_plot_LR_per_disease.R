@@ -14,12 +14,12 @@ data %>%
   ggplot() +
   geom_point(aes(x = -log10(padj), y = Disease,color = Disease, size = perc.LR, alpha = padj<0.05), show.legend = TRUE)+
   scale_alpha_discrete(range=c(0.4,1))+
-  facet_grid(cols = vars(LR))+
+  facet_grid(rows = vars(LR))+
   theme(text = element_text(size = 12))+ theme(plot.margin=grid::unit(c(0.5,0.5,0.5,0.5), "in"))+
   geom_vline(xintercept=1.3010, linetype="dashed", color = "darkgray") +
   xlab("-log10(p)") +
   ylab("Disease") +
-  #coord_flip() + # this is to make  the graph landscape
+  coord_flip() + # this is to make  the graph landscape
   theme_light() +
   viridis::scale_fill_viridis() + ## to make the colour scheme color-blind safe, the parameter option="A" or option="B",etc will change palette
   #guides(fill = guide_legend(title = "Disease")) +
@@ -55,12 +55,12 @@ data %>%
   ggplot() +
   geom_point(aes(x = -log10(padj), y = Disease,color = Disease, size = perc.LR, alpha = padj<0.05), show.legend = TRUE)+
   scale_alpha_discrete(range=c(0.4,1))+
-  facet_grid(cols = vars(LR))+
+  facet_grid(rows = vars(LR))+
   theme(text = element_text(size = 12))+ theme(plot.margin=grid::unit(c(0.5,0.5,0.5,0.5), "in"))+
   geom_vline(xintercept=1.3010, linetype="dashed", color = "darkgray") +
   xlab("-log10(p)") +
   ylab("Disease") +
-  #coord_flip() + # this is to make  the graph landscape
+  coord_flip() + # this is to make  the graph landscape
   theme_light() +
   viridis::scale_fill_viridis() + ## to make the colour scheme color-blind safe, the parameter option="A" or option="B",etc will change palette
   #guides(fill = guide_legend(title = "Disease")) +
@@ -96,12 +96,12 @@ data %>%
   ggplot() +
   geom_point(aes(x = -log10(padj), y = Disease,color = Disease, size = perc.LR, alpha = padj<0.05), show.legend = TRUE)+
   scale_alpha_discrete(range=c(0.4,1))+
-  facet_grid(cols = vars(LR))+
+  facet_grid(rows = vars(LR))+
   theme(text = element_text(size = 12))+ theme(plot.margin=grid::unit(c(0.5,0.5,0.5,0.5), "in"))+
   geom_vline(xintercept=1.3010, linetype="dashed", color = "darkgray") +
   xlab("-log10(p)") +
   ylab("Disease") +
-  #coord_flip() + # this is to make  the graph landscape
+  coord_flip() + # this is to make  the graph landscape
   theme_light() +
   viridis::scale_fill_viridis() + ## to make the colour scheme color-blind safe, the parameter option="A" or option="B",etc will change palette
   #guides(fill = guide_legend(title = "Disease")) +
