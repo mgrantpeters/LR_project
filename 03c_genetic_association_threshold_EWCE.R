@@ -7,7 +7,7 @@ set.seed(1234)
 setwd("/Users/melis/Documents/GitHub/LR_project")
 
 load("C:/Users/melis/Downloads/ctd_aibsMultipleCrtxSmrtSeq.rda")  #Load CTD data
-n = 80000
+n = 10000
 
 
 #################------------------- 0.7 threshold

@@ -7,7 +7,7 @@ set.seed(1234)
 setwd("/Users/melis/Documents/GitHub/LR_project")
 
 load("C:/Users/melis/Documents/GitHub/LR_project/processed_data/03c-EWCE/ctd_cellType_layer.rda")  #Load CTD data
-n = 80000
+n = 10000
 
 
 #################------------------- 0.7 threshold
@@ -18,7 +18,8 @@ list = data$X0
 full_results <- EWCE::bootstrap_enrichment_test(sct_data = ctd,
                                                 sctSpecies = "human",
                                                 genelistSpecies = "human",
-                                                hits = list, 
+                                                hits = list,
+                                                mtc_method = "fdr",
                                                 reps = n,                       #Bootstrap repeats set to 10000
                                                 annotLevel = 1,                 #Annotation level where 1= major cell types, 2= higher resolution
                                                 geneSizeControl = TRUE)         #Control for GC content and gene length
@@ -45,7 +46,7 @@ ggsave(
   dpi = 300
 )
 
-write.csv(data.frame(full_results$results), "processed_data/03-LR_network_visualisation_DLPFC/03c-specificity_major_network_DLPFC/annotation1_thr07.csv", row.names=TRUE, quote=FALSE) 
+write.csv(data.frame(full_results$results), "processed_data/03-LR_network_visualisation/03c-specificity_major_network_DLPFC/annotation1_thr07.csv", row.names=TRUE, quote=FALSE) 
 
 rm(full_results)
 rm(plot_list)
@@ -54,6 +55,7 @@ full_results <- EWCE::bootstrap_enrichment_test(sct_data = ctd,
                                                 sctSpecies = "human",
                                                 genelistSpecies = "human",
                                                 hits = list, 
+                                                mtc_method = "fdr",
                                                 reps = n,                       #Bootstrap repeats set to 10000
                                                 annotLevel = 2,                 #Annotation level where 1= major cell types, 2= higher resolution
                                                 geneSizeControl = TRUE)         #Control for GC content and gene length
@@ -80,7 +82,7 @@ ggsave(
   dpi = 300
 )
 
-write.csv(data.frame(full_results$results), "processed_data/03-LR_network_visualisation_DLPFC/03c-specificity_major_network/annotation2_thr07.csv", row.names=TRUE, quote=FALSE) 
+write.csv(data.frame(full_results$results), "processed_data/03-LR_network_visualisation/03c-specificity_major_network/annotation2_thr07.csv", row.names=TRUE, quote=FALSE) 
 rm(full_results)
 rm(plot_list)
 
@@ -92,6 +94,7 @@ full_results <- EWCE::bootstrap_enrichment_test(sct_data = ctd,
                                                 sctSpecies = "human",
                                                 genelistSpecies = "human",
                                                 hits = list, 
+                                                mtc_method = "fdr",
                                                 reps = n,                       #Bootstrap repeats set to 10000
                                                 annotLevel = 1,                 #Annotation level where 1= major cell types, 2= higher resolution
                                                 geneSizeControl = TRUE)         #Control for GC content and gene length
@@ -127,6 +130,7 @@ full_results <- EWCE::bootstrap_enrichment_test(sct_data = ctd,
                                                 sctSpecies = "human",
                                                 genelistSpecies = "human",
                                                 hits = list, 
+                                                mtc_method = "fdr",
                                                 reps = n,                       #Bootstrap repeats set to 10000
                                                 annotLevel = 2,                 #Annotation level where 1= major cell types, 2= higher resolution
                                                 geneSizeControl = TRUE)         #Control for GC content and gene length
@@ -166,6 +170,7 @@ full_results <- EWCE::bootstrap_enrichment_test(sct_data = ctd,
                                                 sctSpecies = "human",
                                                 genelistSpecies = "human",
                                                 hits = list, 
+                                                mtc_method = "fdr",
                                                 reps = 50000,                       #Bootstrap repeats set to 10000
                                                 annotLevel = 1,                 #Annotation level where 1= major cell types, 2= higher resolution
                                                 geneSizeControl = TRUE)         #Control for GC content and gene length
@@ -201,6 +206,7 @@ full_results <- EWCE::bootstrap_enrichment_test(sct_data = ctd,
                                                 sctSpecies = "human",
                                                 genelistSpecies = "human",
                                                 hits = list, 
+                                                mtc_method = "fdr",
                                                 reps = n,                       #Bootstrap repeats set to 10000
                                                 annotLevel = 2,                 #Annotation level where 1= major cell types, 2= higher resolution
                                                 geneSizeControl = TRUE)         #Control for GC content and gene length
