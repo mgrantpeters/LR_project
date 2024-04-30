@@ -1,0 +1,16 @@
+"","Pathway","GeneRatio","Counts","Ratios","P.adjust"
+"15","positive regulation of T cell activation","78/860",78,0.0906976744186047,5.27573257942414e-42
+"14","regulation of leukocyte migration","79/860",79,0.0918604651162791,1.00530459715617e-43
+"13","regulation of lymphocyte proliferation","81/860",81,0.0941860465116279,5.55265312820285e-44
+"9","positive regulation of ERK1 and ERK2 cascade","85/860",85,0.0988372093023256,1.8118927214462e-53
+"4","myeloid leukocyte migration","90/860",90,0.104651162790698,2.02823357338344e-55
+"6","regulation of chemotaxis","90/860",90,0.104651162790698,2.00417699508344e-54
+"10","regulation of leukocyte proliferation","91/860",91,0.105813953488372,1.70169003656643e-50
+"11","positive regulation of cell-cell adhesion","94/860",94,0.109302325581395,7.9225549531307e-47
+"12","positive regulation of lymphocyte activation","94/860",94,0.109302325581395,4.20385984946761e-46
+"3","axon guidance","97/860",97,0.112790697674419,2.84469311639176e-58
+"7","lymphocyte proliferation","101/860",101,0.117441860465116,5.14107265840298e-54
+"5","mononuclear cell proliferation","103/860",103,0.119767441860465,2.66735518367626e-55
+"8","ERK1 and ERK2 cascade","104/860",104,0.12093023255814,9.875867853882e-54
+"1","regulation of peptidyl-tyrosine phosphorylation","113/860",113,0.131395348837209,1.64045740584672e-74
+"2","cell chemotaxis","115/860",115,0.133720930232558,3.85583923439591e-68

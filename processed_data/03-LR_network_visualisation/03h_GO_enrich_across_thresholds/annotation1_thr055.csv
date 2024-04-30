@@ -1,0 +1,16 @@
+"","Pathway","GeneRatio","Counts","Ratios","P.adjust"
+"14","positive regulation of MAP kinase activity","41/532",41,0.0770676691729323,4.28717406703663e-29
+"9","receptor signaling pathway via STAT","53/532",53,0.0996240601503759,5.16157296928635e-37
+"15","cell activation involved in immune response","58/532",58,0.109022556390977,2.14525920233933e-28
+"11","T cell differentiation","59/532",59,0.110902255639098,1.25531979649282e-30
+"13","cell chemotaxis","60/532",60,0.112781954887218,3.75771184524708e-29
+"12","regulation of ERK1 and ERK2 cascade","61/532",61,0.114661654135338,1.31928610972162e-30
+"8","positive regulation of T cell activation","62/532",62,0.116541353383459,1.99578740594729e-38
+"5","regulation of lymphocyte proliferation","66/532",66,0.12406015037594,7.6376653976444e-42
+"10","ERK1 and ERK2 cascade","67/532",67,0.12593984962406,5.44792247065979e-34
+"4","regulation of leukocyte proliferation","71/532",71,0.133458646616541,1.77233169739111e-44
+"7","positive regulation of cell-cell adhesion","72/532",72,0.135338345864662,1.03279553618468e-40
+"6","positive regulation of lymphocyte activation","73/532",73,0.137218045112782,3.96161179110564e-41
+"3","lymphocyte proliferation","79/532",79,0.148496240601504,3.40193258032972e-48
+"2","mononuclear cell proliferation","80/532",80,0.150375939849624,1.18133474917224e-48
+"1","regulation of peptidyl-tyrosine phosphorylation","98/532",98,0.184210526315789,1.51451718562323e-77

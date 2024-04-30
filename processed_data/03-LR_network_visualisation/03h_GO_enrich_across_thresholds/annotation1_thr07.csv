@@ -1,0 +1,16 @@
+"","Pathway","GeneRatio","Counts","Ratios","P.adjust"
+"7","neuroinflammatory response","13/126",13,0.103174603174603,8.46949605951057e-13
+"4","astrocyte differentiation","15/126",15,0.119047619047619,1.65545189846448e-14
+"12","positive regulation of inflammatory response","15/126",15,0.119047619047619,1.00469069285099e-11
+"15","negative regulation of neurogenesis","15/126",15,0.119047619047619,1.71627403379547e-11
+"10","regulation of lipid localization","16/126",16,0.126984126984127,5.0627027675363e-12
+"11","negative regulation of cell development","17/126",17,0.134920634920635,5.18805349016285e-12
+"6","positive regulation of peptidyl-tyrosine phosphorylation","19/126",19,0.150793650793651,5.62746397444519e-14
+"8","regulation of epithelial cell migration","19/126",19,0.150793650793651,2.53929482595881e-12
+"2","cell adhesion mediated by integrin","20/126",20,0.158730158730159,1.68227424060839e-21
+"9","positive regulation of DNA-binding transcription factor activity","20/126",20,0.158730158730159,3.54932635459959e-12
+"13","epithelial cell migration","20/126",20,0.158730158730159,1.66357087131389e-11
+"14","epithelium migration","20/126",20,0.158730158730159,1.71627403379547e-11
+"5","cell-matrix adhesion","21/126",21,0.166666666666667,3.81388720238622e-14
+"1","integrin-mediated signaling pathway","23/126",23,0.182539682539683,6.29531039951974e-24
+"3","cognition","24/126",24,0.19047619047619,8.95319037221017e-15
