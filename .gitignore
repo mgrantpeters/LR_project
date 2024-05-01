@@ -3,8 +3,9 @@
 *.pdf
 *.pptx
 *.docx
-.RData
-.Rhistory
+*.RData
+*.Rhistory
+*.ai
 03a_genetic_association_test.ipynb
 script_list_and_description.docx
 test_to_delete.ipynb
