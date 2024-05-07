@@ -1,0 +1,48 @@
+,Script description,Manuscript figs
+00a-Check threshold,Script to visualise the distribution of genetic association risk scores of all genes associated with all diseases.,SupFig 1B
+00b_control_hot_one_encode,Script to construct matrix with hot-one-encoded genes per disease for control diseases.,
+00-hot_one_encode_disease_genes,Script to construct matrix with hot-one-encoded genes per disease for neurological diseases.,
+01a_LR_occurrance_across_diseases,Script to estimate,
+,(1) How many ligands and receptors occur in each disease gene list,
+,(2) To compare these real values to bootstrapped data,
+,,
+,"Bootstrapped data generation: using a list of genes expressed in the human brain, a random list of genes with matching size as a given disease is selected. % of LRs in that list is calculated.",
+01b_control_LR_occurance,Calculates LR occurrence in control diseases using same method as 01a_LR_occurance_across_diseases,
+01b_plot_LR_per_disease,Script to visualise results from 01a_LR_occurrance_across_diseases,Fig. 1C
+01-clustering_genes_and_diseases,Script to,
+, - visualise in a heatmap all the genes associated with each disease,
+,- extract psychiatric genes,
+,- estimate total overlap in genes,
+02a_bootstrapped_disease_comparisons,This script compares,
+,- how many LRs and LRIs overlap across diseases,
+,- distances between networks (pairwise),
+,"- generates bootstrapped data to compare to real values, these are protein-expressing genes known to act as LRs",
+,- for LR/LRIs the quantile of the distribution in which the real data falls is extracted,
+,-for distances the empirical pvalue is calculated,
+02b_plot_bootstrapped_disease_comparisons,Visualise heatmaps generated in 02a_bootstrapped_disease_comparisons,Fig. 2A-C
+03_LR_network_distance_diseases,Calculates deltacon distances across risk thresholds,
+03_LR_network_visualisation,Visualisation of deltacon analysis results with seaborn,
+03-1e_visualising_spatial_boxplots,Visualisation with seaborn of spatial analysis,Fig. 4D
+03a_genetic_association_test,Visualisation of LR networks across thresholds,"Fig 3A,"
+,,SupFig 1D
+03c_genetic_association_threhsold_EWCE,EWCE –Allen brain atlas data,SupFig 2A
+03c_genetic_association_threhsold_EWCE_DLPFC,EWCE –DLPFC data,Fig. 3B
+03d_network_stats_per_threshold,Detecting connectivity and size of bootstrapped networks,
+This should be rerun to exclude disease-associated LRs,,
+03e_network_spatial_analysis,Bootstrapped spatial analysis (enrichment to a cortical layer),Fig. 4E
+03e_stats,Stats for spatial analysis,
+03f_characterising_diseases_in_networks,Number of LRs per disease contributing to networks across thresholds,Sup Fig. 1A
+03h_GO_enrich_across_thresholds,Verifying pathways overrepresented in the gene lists of the risk network,"Fig. 4B,"
+,,SupFig 3C-D
+03h_spatial_colocalisation,Visualisation of spots with most co-localised expression of network genes,
+03i_histograms_detectability_network_genes_spatial,Histogram of number of genes detected per spot,Fig. 4C
+03j_spatial_plots_scores,Visualisation of data from 03h spatial colocalization,Fig. 4B
+03k_LIANA_DLPFC,"Reanalysis of LIANA outputs from DLPFC, visualising which interactions are predicted in the cross-disease network which are likely to occur in the DLPFC.","Fig. 3C,"
+,,SupFig 3A-B
+03l_visualise_networks,Script for visualising networks,
+05b_PD_LR_overlap_other_diseases,Visualise LR overlap between PD and other diseases,
+07a_druggable_genome,Prepare Druggable genome data,
+07b_plot_pagerank,"Run and plot pagerank for the cross-disease networks, plot with druggable genome data","Fig. 5B,"
+,,SupFig 4A
+08_other_disease_LR_incidence_plot,Script to visualise results from 01b_control_LR_occurance,Sup Fig. 1C
+,,
