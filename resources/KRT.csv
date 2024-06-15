@@ -8,6 +8,9 @@ Dataset,List of brain-expressed genes,Genotype-Tissue expression (GTEx) data,DOI
 Dataset,Druggable genome,"Table S1, Finan et al., 2017",DOI: 10.1126/scitranslmed.aag1166,reuse,Used jointly with Pagerank for target selection,
 Dataset,Single nucleus RNA sequencing data from multiple cortical regions (smart-seq),Allen Brain Atlas,https://portal.brain-map.org/atlases-and-data/rnaseq/human-multiple-cortical-areas-smart-seq,reuse,,
 Software/code,LR_project,Github/Zenodo, DOI: 10.5281/zenodo.11666261,new,,
+Software/code,Cluster Profiler,R 4.3.1 (installation via Bioconductor),http://bioconductor.org/packages/release/bioc/html/clusterProfiler.html,reuse,,clusterProfiler (RRID:SCR_016884)
+Software/code,Gene Ontology,R 4.3.1 (installation via Bioconductor),http://www.geneontology.org/,reuse,,Gene Ontology (RRID:SCR_002811)
+Software/code,cell2location,R 4.3.1 (installation via Bioconductor),https://github.com/BayraktarLab/cell2location,reuse,,cell2location (RRID:SCR_024859)
 Software/code,EWCE,R 4.3.1 (installation via Bioconductor),DOI: 10.18129/B9.bioc.ewceData,reuse,,
 Software/code,biomaRt,R 4.3.1 (installation via Bioconductor),DOI: 10.18129/B9.bioc.biomaRt,reuse,,BioMart Project (RRID:SCR_002987)
 Software/code,ggplot2,R 4.3.1 (installation via Bioconductor),DOI: 10.1007/978-0-387-98141-3,reuse,,ggplot2 (RRID:SCR_014601)
