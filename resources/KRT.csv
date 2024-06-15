@@ -5,8 +5,9 @@ Dataset,Ligand-receptor role annotation,Omnipath database,https://omnipathdb.org
 Dataset,Genetic association gene lists per disease,OpenTargets,https://www.opentargets.org/,reuse,,Open Targets (RRID:SCR_014622)
 Dataset,Disease tree in medical subject headings,Medical subject headings,https://www.nlm.nih.gov/mesh/meshhome.html,reuse,,MeSH (RRID:SCR_004750)
 Dataset,List of brain-expressed genes,Genotype-Tissue expression (GTEx) data,DOI: 10.1126/science.aaz1776,reuse,Specific file accessed: GTEx_Analysis_2017-06-05_v8_RNASeQCv1.1.9_gene_median_tpm.gct,Genotype-Tissue Expression (RRID:SCR_013042)
+Dataset,Druggable genome,"Table S1, Finan et al., 2017",DOI: 10.1126/scitranslmed.aag1166,reuse,Used jointly with Pagerank for target selection,
 Dataset,Single nucleus RNA sequencing data from multiple cortical regions (smart-seq),Allen Brain Atlas,https://portal.brain-map.org/atlases-and-data/rnaseq/human-multiple-cortical-areas-smart-seq,reuse,,
-Software/code,LR_project,Github/Zenodo,https://github.com/mgrantpeters/LR_project,new,,
+Software/code,LR_project,Github/Zenodo, DOI: 10.5281/zenodo.11666261,new,,
 Software/code,EWCE,R 4.3.1 (installation via Bioconductor),DOI: 10.18129/B9.bioc.ewceData,reuse,,
 Software/code,biomaRt,R 4.3.1 (installation via Bioconductor),DOI: 10.18129/B9.bioc.biomaRt,reuse,,BioMart Project (RRID:SCR_002987)
 Software/code,ggplot2,R 4.3.1 (installation via Bioconductor),DOI: 10.1007/978-0-387-98141-3,reuse,,ggplot2 (RRID:SCR_014601)
