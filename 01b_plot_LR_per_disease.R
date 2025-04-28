@@ -10,7 +10,7 @@ data$padj = p.adjust(data$pval, method="fdr")
 
 
 data %>% 
-  mutate(Disease = factor(Disease,rev(c("AD","ALS","EssentialTremor","FrontotemporalDementia","LBD","PD","ProgressiveSupranuclearPalsy","AnorexiaNervosa","BipolarDisorder","MajorDepressiveDisorder","NeuroticDisorder","OCD","Schizophrenia","TouretteSyndrome","UnipolarDepression","BrainAneurysm","IntracranialHemorrhage","MigraineDisorder","MigraineWithAura","MS","NarcolepsyCataplexy","Narcolepsy","PartialEpilepsy","RestlessLeg")))) %>%
+  mutate(Disease = factor(Disease,rev(c("AD","ALS","LBD","PD","PSP","AnorexiaNervosa","BipolarDisorder","MajorDepressiveDisorder","OCD","SCZ","Tourette","UnipolarDepression","Epilepsy","MigraineDisorder","MS","Narcolepsy","RestlessLeg")))) %>%
   ggplot() +
   geom_point(aes(x = -log10(padj), y = Disease,color = Disease, size = perc.LR, alpha = padj<0.05), show.legend = TRUE)+
   scale_alpha_discrete(range=c(0.4,1))+
@@ -51,7 +51,7 @@ ggsave(
 data = read.csv("processed_data/01-clustering_genes_and_diseases/01a_LR_occurrance_across_diseases/LR_occurance_0.4.csv")
 data$padj = p.adjust(data$pval, method="fdr")
 data %>% 
-  mutate(Disease = factor(Disease,rev(c("AD","ALS","EssentialTremor","FrontotemporalDementia","LBD","PD","ProgressiveSupranuclearPalsy","AnorexiaNervosa","BipolarDisorder","MajorDepressiveDisorder","NeuroticDisorder","OCD","Schizophrenia","TouretteSyndrome","UnipolarDepression","BrainAneurysm","IntracranialHemorrhage","MigraineDisorder","MigraineWithAura","MS","NarcolepsyCataplexy","Narcolepsy","PartialEpilepsy","RestlessLeg")))) %>%
+  mutate(Disease = factor(Disease,rev(c("AD","ALS","LBD","PD","PSP","AnorexiaNervosa","BipolarDisorder","MajorDepressiveDisorder","OCD","SCZ","Tourette","UnipolarDepression","Epilepsy","MigraineDisorder","MS","Narcolepsy","RestlessLeg")))) %>%
   ggplot() +
   geom_point(aes(x = -log10(padj), y = Disease,color = Disease, size = perc.LR, alpha = padj<0.05), show.legend = TRUE)+
   scale_alpha_discrete(range=c(0.4,1))+
@@ -92,7 +92,7 @@ ggsave(
 data = read.csv("processed_data/01-clustering_genes_and_diseases/01a_LR_occurrance_across_diseases/LR_occurance_0.7.csv")
 data$padj = p.adjust(data$pval, method="fdr")
 data %>% 
-  mutate(Disease = factor(Disease,rev(c("AD","ALS","PD","BipolarDisorder","Schizophrenia","UnipolarDepression","MigraineDisorder","PartialEpilepsy")))) %>%
+  mutate(Disease = factor(Disease,rev(c("AD","ALS","LBD","PD","PSP","AnorexiaNervosa","BipolarDisorder","MajorDepressiveDisorder","OCD","SCZ","Tourette","UnipolarDepression","Epilepsy","MigraineDisorder","MS","Narcolepsy","RestlessLeg")))) %>%
   ggplot() +
   geom_point(aes(x = -log10(padj), y = Disease,color = Disease, size = perc.LR, alpha = padj<0.05), show.legend = TRUE)+
   scale_alpha_discrete(range=c(0.4,1))+

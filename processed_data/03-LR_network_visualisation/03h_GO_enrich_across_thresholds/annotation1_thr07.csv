@@ -1,16 +1,16 @@
 "","Pathway","GeneRatio","Counts","Ratios","P.adjust"
-"7","neuroinflammatory response","13/126",13,0.103174603174603,8.46949605951057e-13
-"4","astrocyte differentiation","15/126",15,0.119047619047619,1.65545189846448e-14
-"12","positive regulation of inflammatory response","15/126",15,0.119047619047619,1.00469069285099e-11
-"15","negative regulation of neurogenesis","15/126",15,0.119047619047619,1.71627403379547e-11
-"10","regulation of lipid localization","16/126",16,0.126984126984127,5.0627027675363e-12
-"11","negative regulation of cell development","17/126",17,0.134920634920635,5.18805349016285e-12
-"6","positive regulation of peptidyl-tyrosine phosphorylation","19/126",19,0.150793650793651,5.62746397444519e-14
-"8","regulation of epithelial cell migration","19/126",19,0.150793650793651,2.53929482595881e-12
-"2","cell adhesion mediated by integrin","20/126",20,0.158730158730159,1.68227424060839e-21
-"9","positive regulation of DNA-binding transcription factor activity","20/126",20,0.158730158730159,3.54932635459959e-12
-"13","epithelial cell migration","20/126",20,0.158730158730159,1.66357087131389e-11
-"14","epithelium migration","20/126",20,0.158730158730159,1.71627403379547e-11
-"5","cell-matrix adhesion","21/126",21,0.166666666666667,3.81388720238622e-14
-"1","integrin-mediated signaling pathway","23/126",23,0.182539682539683,6.29531039951974e-24
-"3","cognition","24/126",24,0.19047619047619,8.95319037221017e-15
+"14","phosphatidylinositol 3-kinase signaling","41/433",41,0.0946882217090069,3.3691689537288e-30
+"12","positive regulation of T cell activation","51/433",51,0.117782909930716,3.86766153765717e-32
+"10","regulation of lymphocyte proliferation","53/433",53,0.122401847575058,1.62861375672496e-33
+"11","phagocytosis","53/433",53,0.122401847575058,5.84392634608282e-33
+"15","cell activation involved in immune response","54/433",54,0.124711316397229,3.34996173076156e-29
+"13","cell chemotaxis","58/433",58,0.133949191685912,4.13771254524428e-32
+"3","protein autophosphorylation","59/433",59,0.136258660508083,7.57250296423463e-40
+"9","regulation of ERK1 and ERK2 cascade","59/433",59,0.136258660508083,5.19163597901606e-34
+"7","positive regulation of cell-cell adhesion","60/433",60,0.138568129330254,6.62584244582016e-35
+"8","positive regulation of lymphocyte activation","60/433",60,0.138568129330254,1.72560301843718e-34
+"4","regulation of leukocyte proliferation","61/433",61,0.140877598152425,1.46980975554477e-39
+"2","immune response-regulating cell surface receptor signaling pathway","62/433",62,0.143187066974596,7.6626684422674e-41
+"5","lymphocyte proliferation","63/433",63,0.145496535796767,2.30413337597662e-37
+"6","mononuclear cell proliferation","63/433",63,0.145496535796767,4.77501175743867e-37
+"1","regulation of peptidyl-tyrosine phosphorylation","79/433",79,0.182448036951501,3.07501425261182e-60
